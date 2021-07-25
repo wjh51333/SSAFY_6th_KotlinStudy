@@ -4,7 +4,7 @@
 |------:|:---:|
 |**7/23(금)**||
 |**7/24(토)**|1단계([2557](https://www.acmicpc.net/problem/2557)) 2단계([2753](https://www.acmicpc.net/problem/2753), [2884](https://www.acmicpc.net/problem/2884))|
-|**7/25(일)**||
+|**7/25(일)**||3단계([10950](https://www.acmicpc.net/problem/10950), [15552](https://www.acmicpc.net/problem/15552))
 |**7/26(월)**||
 |**7/27(화)**||
 |**7/28(수)**||
