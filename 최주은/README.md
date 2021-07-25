@@ -4,7 +4,7 @@
 |------:|:---:|
 |**7/23(금)**|[10171](https://www.acmicpc.net/problem/10171)  [10718](https://www.acmicpc.net/problem/10718)   [2557](https://www.acmicpc.net/problem/2557)|
 |**7/24(토)**|X|
-|**7/25(일)**|[2884](https://www.acmicpc.net/problem/2884)|
+|**7/25(일)**|[2884](https://www.acmicpc.net/problem/2884)   [2739](https://www.acmicpc.net/problem/2739)|
 |**7/26(월)**||
 |**7/27(화)**||
 |**7/28(수)**||
