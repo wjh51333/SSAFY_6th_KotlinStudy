@@ -1,0 +1,20 @@
+import java.io.BufferedReader
+import java.io.BufferedWriter
+import java.io.InputStreamReader
+import java.io.OutputStreamWriter
+import java.util.*
+
+fun main(args: Array<String>) {
+    val br = BufferedReader(InputStreamReader(System.`in`))
+    val bw = BufferedWriter(OutputStreamWriter(System.out))
+    val len = Integer.parseInt(br.readLine())
+
+    for(i in 1..len) {
+        val st = StringTokenizer(br.readLine(), " ")
+        bw.write("${Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())}\n")
+    }
+    br.close()
+
+    bw.flush()
+    bw.close()
+}
