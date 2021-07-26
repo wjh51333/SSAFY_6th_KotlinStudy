@@ -172,17 +172,22 @@ if ("Volvo" in cars) {
 }
 ```
 
-Kothlin for문 : in
+#### 🎈Kotlin for문 : in
+```kotlin
 for ( x in cars) {
   println(x)
 }
+```
 
-Kothlin Ranges
+#### 🎈Kotlin Ranges
+```kotlin
 for (chars in 'a'..'x') {
   println(chars)
 }
+```
 
-kothlin 함수
+#### 🎈kotlin 함수
+```kotlin
 fun myFunction(fname: String, age: Int) {
   println(fname + " is " + age)
 }
@@ -196,10 +201,10 @@ fun main() {
 // John is 35
 // Jane is 32
 // George is 15
+```
 
-
-return values
-
+#### 🎈return values
+```kotlin
 fun myFunction(x: Int, y: Int): Int {
   return (x + y)
 }
@@ -210,7 +215,8 @@ fun main() {
 }
 
 // 8 (3 + 5)
-======================
+```
+```kotlin
 fun myFunction(x: Int, y: Int) = x + y
 
 fun main() {
@@ -219,3 +225,4 @@ fun main() {
 }
 
 // 8 (3 + 5)
+```
