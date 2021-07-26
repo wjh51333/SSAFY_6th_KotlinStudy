@@ -8,7 +8,7 @@
    
 |날짜|문제|
 |:--:|:---|
-|[**07/26(월)**](#07/26(월)) | [1단계 : 사칙연산](https://www.acmicpc.net/problem/10869), [2단계 : 알람 시계](https://www.acmicpc.net/problem/2884)|
+|[**07/26(월)**](#07/26(월)) | [1단계 : 사칙연산](https://www.acmicpc.net/problem/10869), [2단계 : 알람 시계](https://www.acmicpc.net/problem/2884), [3단계 : 별 찍기 - 2](https://www.acmicpc.net/problem/2439)|
 |[**07/27(화)**]()||
 |[**07/28(수)**]()||
 |[**07/29(목)**]()||
@@ -183,6 +183,21 @@ for ( x in cars) {
 ```kotlin
 for (chars in 'a'..'x') {
   println(chars)
+}
+
+for (ints in 1..10) {
+  println(ints)
+}
+```
+
+감소는 downTo
+```kotlin
+for (chars in 'x' downTo 'a') {
+  println(chars)
+}
+
+for (ints in 10 downTo 1) {
+  println(ints)
 }
 ```
 
