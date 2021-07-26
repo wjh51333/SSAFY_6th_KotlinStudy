@@ -8,7 +8,7 @@
    
 |날짜|문제|
 |:--:|:---|
-|[**07/26(월)**](#07/26(월)) | [1단계 : 사칙연산](https://www.acmicpc.net/problem/10869), [2단계 : 알람 시계](https://www.acmicpc.net/problem/2884), [3단계 : 별 찍기 - 2](https://www.acmicpc.net/problem/2439)|
+|[**07/26(월)**](#07/26(월)) | 1단계([10869](https://www.acmicpc.net/problem/10869)), 2단계([2884](https://www.acmicpc.net/problem/2884)), 3단계([2439](https://www.acmicpc.net/problem/2439))|
 |[**07/27(화)**]()||
 |[**07/28(수)**]()||
 |[**07/29(목)**]()||
