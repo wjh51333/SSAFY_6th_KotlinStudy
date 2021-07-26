@@ -5,7 +5,7 @@
 |**7/23(금)**|1단계[10171](https://www.acmicpc.net/problem/10171)  1단계[10718](https://www.acmicpc.net/problem/10718)   1단계[2557](https://www.acmicpc.net/problem/2557)|
 |**7/24(토)**|X|
 |**7/25(일)**|2단계[2884](https://www.acmicpc.net/problem/2884)   3단계[2739](https://www.acmicpc.net/problem/2739)   4단계[10952](https://www.acmicpc.net/problem/10952)|
-|**7/26(월)**|5단계[10818](https://www.acmicpc.net/problem/10818)    6단계[4673](https://www.acmicpc.net/problem/4673)    7단계[11654](https://www.acmicpc.net/problem/11654)   12단계[2750](https://www.acmicpc.net/problem/2750)|
+|**7/26(월)**|5단계[10818](https://www.acmicpc.net/problem/10818)    6단계[4673](https://www.acmicpc.net/problem/4673)    7단계[11654](https://www.acmicpc.net/problem/11654)    8단계[2869](https://www.acmicpc.net/problem/2869)   12단계[2750](https://www.acmicpc.net/problem/2750)|
 |**7/27(화)**||
 |**7/28(수)**||
 |**7/29(목)**||
