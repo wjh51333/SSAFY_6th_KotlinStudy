@@ -9,7 +9,7 @@
 |날짜|문제|
 |:--:|:---|
 |[**07/26(월)**](#07/26(월)) | 1단계([10869](https://www.acmicpc.net/problem/10869)), 2단계([2884](https://www.acmicpc.net/problem/2884)), 3단계([2439](https://www.acmicpc.net/problem/2439))|
-|[**07/27(화)**]()| 4단계([1110](https://www.acmicpc.net/problem/1110)), 5단계([4344](https://www.acmicpc.net/problem/4344))|
+|[**07/27(화)**](#07/27(화))| 4단계([1110](https://www.acmicpc.net/problem/1110)), 5단계([4344](https://www.acmicpc.net/problem/4344))|
 |[**07/28(수)**]()||
 |[**07/29(목)**]()||
 |[**07/30(금)**]()||
@@ -201,11 +201,36 @@ fun main() {
    
    
 #### 🎈Kotlin Arrays
- + array를 만들기 위해 arrayOF() 함수를 사용해야 한다.
- + 배열을 만들고 싶지만 지금 당장 데이터를 넣을 필요가 없다면 arrayOfNulls()를 이용해 미리 자료형과 배열의 크기를 알려주고 만들 수도 있다.
-```kotlin
-val cars = arrayOf("Volvo", "BMW", "Ford", "Mazda")
-```
+ 1. 라이브러리 함수를 사용하는 방법
+   >|함수|설명|
+   >|:---:|:----|
+   >|arrayOf(value...)|선언과 동시에 값들을 초기화|
+   >|arrayOfNulls(size)|크기만 지정하고 값은 나중에 저장, 지정된 크기만큼 null값 세팅|
+   > ```kotlin
+   > val cars = arrayOf("Volvo", "BMW", "Ford", "Mazda")    // ["Volvo", "BMW", "Ford", "Mazda"]
+   > val nums = arrayOfNulls<Int>(3)      // [null, null, null]
+   > ```
+ 2. 생성자를 사용하는 방법
+   > |생성자|예시|설명|
+   > |:----:|:--:|:---|
+   > |Array(size, 람다식)|Array(5, {i -> i}|[0, 1, 2, 3, 4]로 초기화|
+   > |xxxArray(size)|IntArray(3)|[0, 0, 0] 로 초기화 된 Int 형 배열|
+   > ```kotlin
+   > val array: Array<Int> = Array(5, {i -> 0})    // [0, 0, 0, 0]
+   > val array2: Array<Int> = Array(5) { i -> sc.nextInt() }   // Scanner 사용, 입력받은 순서대로 배열에 초기화
+   > val array3 = IntArray(5)    // [0, 0, 0, 0, 0]
+   > ```
+ 3. Boxing을 발생시키지 않는 배열 생성
+    Primitive type의 배열을 생성할 때, 위와 같이 Array 클래스로 생성하게 되면 Wrapping으로 인한 Boxing 발생
+    코틀린에서는 Primitive type에 한해서 각각의 특수 클래스를 제공
+   > |클래스|
+   > |:----:|
+   > |xxxArrayOf(value...)|
+   > ```kotlin
+   > val array: IntArray = intArrayOf(1, 2, 3)    // [1, 2, 3]
+   > val array2: DoubleArray = doubleArrayOf(0.5, 0.2)   // [0.5, 0.2]
+   > val array3: BooleanArray = booleanArrayOf(true, false)    // [true, false]
+   > ```
  + val은 변경이 불가능한 것이 맞다. 하지만, 참조가 가리키는 객체의 내부값은 변경이 가능하다.
 
 #### 🎈요소 유무 체크
