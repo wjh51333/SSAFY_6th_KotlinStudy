@@ -6,7 +6,7 @@
 |**7/24(토)**|3단계 [[10871]](https://www.acmicpc.net/problem/10871) , 4단계[[10951]](https://www.acmicpc.net/problem/10951), 5단계[[4344]](https://www.acmicpc.net/problem/4344) , 6단계[[4673]](https://www.acmicpc.net/problem/4673) , 7단계[[1152]](https://www.acmicpc.net/problem/1152)|
 |**7/25(일)**|8단계[[1712]](https://www.acmicpc.net/problem/1712) , 9단계[[2581]](https://www.acmicpc.net/problem/2581)|
 |**7/26(월)**|10단계[[10872]](https://www.acmicpc.net/problem/10872) , 11단계[[2798]](https://www.acmicpc.net/problem/2798)|
-|**7/27(화)**||
+|**7/27(화)**|18단계[[10828]](https://www.acmicpc.net/problem/10828)|[[18870]]시간초과|
 |**7/28(수)**||
 |**7/29(목)**||
 |**7/30(금)**||
