@@ -10,7 +10,7 @@
 |:--:|:---|
 |[**07/26(월)**](#0726월) | 1단계([10869](https://www.acmicpc.net/problem/10869)), 2단계([2884](https://www.acmicpc.net/problem/2884)), 3단계([2439](https://www.acmicpc.net/problem/2439))|
 |[**07/27(화)**](#0727화)| 4단계([1110](https://www.acmicpc.net/problem/1110)), 5단계([4344](https://www.acmicpc.net/problem/4344))|
-|[**07/28(수)**]()||
+|[**07/28(수)**]()|6단계([4673](https://www.acmicpc.net/problem/4673)), 7단계([1157](https://www.acmicpc.net/problem/1157)), 8단계([2839](https://www.acmicpc.net/problem/2839))|
 |[**07/29(목)**]()||
 |[**07/30(금)**]()||
 
