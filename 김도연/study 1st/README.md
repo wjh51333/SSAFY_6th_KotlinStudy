@@ -253,11 +253,15 @@ for ( x in cars) {
 #### 🎈Kotlin Ranges
 ```kotlin
 for (chars in 'a'..'x') {
-  println(chars)
+  println(chars)     // a, b, c, d, ... , x
 }
 
 for (ints in 1..10) {
-  println(ints)
+  println(ints)      // 1, 2, 3, ..., 9, 10
+}
+   
+for (ints in 1..10 step 2) {
+   println(ints)     // 1, 3, 5, 7, 9
 }
 ```
 
@@ -268,6 +272,22 @@ for (chars in 'x' downTo 'a') {
 }
 
 for (ints in 10 downTo 1) {
-  println(ints)
+  println(ints)      // 10, 9, 8, ... , 2, 1
+}
+
+for (ints in 10 downTo 1 step 2) {
+  println(ints)      // 10, 8, 6, 4, 2
 }
 ```
+   
+#### 🎈 Input
+ 1. java의 Input들 사용
+   >```kotlin
+   > val sc = Scanner(System.`in`)
+   >```
+ 2. readLine
+   >```kotlin
+   > val s = readLine()
+   > var n = readLine()!!.toInt()      // !! null값이 아니다. null값을 받을 수 없다
+   > var tmp = readLine()?.toString()  // ? null값일 수도 있다.
+   >```
