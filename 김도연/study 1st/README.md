@@ -9,14 +9,14 @@
 |날짜|문제|
 |:--:|:---|
 |[**07/26(월)**](#07/26(월)) | 1단계([10869](https://www.acmicpc.net/problem/10869)), 2단계([2884](https://www.acmicpc.net/problem/2884)), 3단계([2439](https://www.acmicpc.net/problem/2439))|
-|[**07/27(화)**]()| 4단계([1110](https://www.acmicpc.net/problem/1110))|
+|[**07/27(화)**]()| 4단계([1110](https://www.acmicpc.net/problem/1110)), 5단계([4344](https://www.acmicpc.net/problem/4344))|
 |[**07/28(수)**]()||
 |[**07/29(목)**]()||
 |[**07/30(금)**]()||
 
    *   *   *
    
-   ### 07/26(월)
+### 07/26(월)
 
 #### 🎈변수 타입
   + var : 수정 가능한 변수
@@ -154,6 +154,52 @@ val result = when (day) {
 println(result)
 ```
 
+#### 🎈kotlin 함수
+```kotlin
+fun myFunction(fname: String, age: Int) {
+  println(fname + " is " + age)
+}
+
+fun main() {
+  myFunction("John", 35)
+  myFunction("Jane", 32)
+  myFunction("George", 15)
+}
+
+// John is 35
+// Jane is 32
+// George is 15
+```
+
+#### 🎈return values
+```kotlin
+fun myFunction(x: Int, y: Int): Int {
+  return (x + y)
+}
+
+fun main() {
+  var result = myFunction(3, 5)
+  println(result)
+}
+
+// 8 (3 + 5)
+```
+```kotlin
+fun myFunction(x: Int, y: Int) = x + y
+
+fun main() {
+  var result = myFunction(3, 5)
+  println(result)
+}
+
+// 8 (3 + 5)
+```
+
+   *   *   *
+   
+### 07/27(화)
+   
+   
 #### 🎈Kotlin Arrays
  + array를 만들기 위해 arrayOF() 함수를 사용해야 한다.
  + 배열을 만들고 싶지만 지금 당장 데이터를 넣을 필요가 없다면 arrayOfNulls()를 이용해 미리 자료형과 배열의 크기를 알려주고 만들 수도 있다.
@@ -199,45 +245,4 @@ for (chars in 'x' downTo 'a') {
 for (ints in 10 downTo 1) {
   println(ints)
 }
-```
-
-#### 🎈kotlin 함수
-```kotlin
-fun myFunction(fname: String, age: Int) {
-  println(fname + " is " + age)
-}
-
-fun main() {
-  myFunction("John", 35)
-  myFunction("Jane", 32)
-  myFunction("George", 15)
-}
-
-// John is 35
-// Jane is 32
-// George is 15
-```
-
-#### 🎈return values
-```kotlin
-fun myFunction(x: Int, y: Int): Int {
-  return (x + y)
-}
-
-fun main() {
-  var result = myFunction(3, 5)
-  println(result)
-}
-
-// 8 (3 + 5)
-```
-```kotlin
-fun myFunction(x: Int, y: Int) = x + y
-
-fun main() {
-  var result = myFunction(3, 5)
-  println(result)
-}
-
-// 8 (3 + 5)
 ```
