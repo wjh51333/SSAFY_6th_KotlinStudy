@@ -1,7 +1,7 @@
 ### 💡 Study Diary 수형  
 
 |날짜|내용|
-|------:|:---:|
+|------:|:---:||:---:|
 |**7/23(금)**|1단계 [[2557]](https://www.acmicpc.net/problem/2557) , 2단계 [[1330]](https://www.acmicpc.net/problem/1330)|
 |**7/24(토)**|3단계 [[10871]](https://www.acmicpc.net/problem/10871) , 4단계[[10951]](https://www.acmicpc.net/problem/10951), 5단계[[4344]](https://www.acmicpc.net/problem/4344) , 6단계[[4673]](https://www.acmicpc.net/problem/4673) , 7단계[[1152]](https://www.acmicpc.net/problem/1152)|
 |**7/25(일)**|8단계[[1712]](https://www.acmicpc.net/problem/1712) , 9단계[[2581]](https://www.acmicpc.net/problem/2581)|
