@@ -1,30 +1,21 @@
-import java.io.BufferedReader
-import java.io.InputStreamReader
-import kotlin.math.sqrt
-
 private val arr = Array<Int>(10001) { i -> i }
 
-fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
-	repeat(readLine().toInt()) {
-		val n:Int = readLine().toInt()
-		if (n == 4) println("2 2")
-		else if (n == 6) println("3 3")
-		else {
-			for (i in n / 2 - 1 downTo 2 step 2) {
-				if ()
-			}
-		}
-	}
-}
-
-fun isPrime(n:Int):Boolean {
-	if (arr[n] == 0) return false
-	for (i in 2..sqrt(n.toDouble()).toInt()) {
+fun main() {
+	fun isPrime(n: Int): Boolean = (arr[n] != 0)
+	// 소수 구하는 효율적 알고리즘 : https://marobiana.tistory.com/91 참조
+	for (i in 2..100) {
 		if (arr[i] == 0) continue
-		for (j in i+i..n step 2) {
+		for (j in i + i..10000 step i) {
 			arr[j] = 0
 		}
 	}
-	if (arr[n] == 0) return false
-	return true
+	repeat(readLine()!!.toInt()) {
+		val n: Int = readLine()!!.toInt()
+		for (i in n / 2 downTo 2) {
+			if (isPrime(i) && isPrime(n - i)) {
+				println("$i ${n - i}")
+				break
+			}
+		}
+	}
 }
