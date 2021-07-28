@@ -279,6 +279,12 @@ for (ints in 10 downTo 1 step 2) {
   println(ints)      // 10, 8, 6, 4, 2
 }
 ```
+until
+```kotlin
+   for (ints in 1 until 10) {
+  println(ints)      // 1, 2, ..., 8, 9
+}
+```
    
 #### 🎈 Input
  1. java의 Input들 사용
