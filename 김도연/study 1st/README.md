@@ -10,8 +10,8 @@
 |:--:|:---|
 |[**07/26(월)**](#0726월) | 1단계([10869](https://www.acmicpc.net/problem/10869)), 2단계([2884](https://www.acmicpc.net/problem/2884)), 3단계([2439](https://www.acmicpc.net/problem/2439))|
 |[**07/27(화)**](#0727화)| 4단계([1110](https://www.acmicpc.net/problem/1110)), 5단계([4344](https://www.acmicpc.net/problem/4344))|
-|[**07/28(수)**]()|6단계([4673](https://www.acmicpc.net/problem/4673)), 7단계([1157](https://www.acmicpc.net/problem/1157)), 8단계([2839](https://www.acmicpc.net/problem/2839))|
-|[**07/29(목)**]()||
+|**07/28(수)**|6단계([4673](https://www.acmicpc.net/problem/4673)), 7단계([1157](https://www.acmicpc.net/problem/1157)), 8단계([2839](https://www.acmicpc.net/problem/2839))|
+|[**07/29(목)**](#0729목)|9단계([11653](https://www.acmicpc.net/problem/11653)), 10단계([11729](https://www.acmicpc.net/problem/11729)), 11단계([7568](https://www.acmicpc.net/problem/7568))|
 |[**07/30(금)**]()||
 
    *   *   *
@@ -297,3 +297,9 @@ until
    > var n = readLine()!!.toInt()      // !! null값이 아니다. null값을 받을 수 없다
    > var tmp = readLine()?.toString()  // ? null값일 수도 있다.
    >```
+   
+      *   *   *
+      
+   #### 🎈07/29(목)
+   
+   11 단계 Brute-Force : 문제를 이해하고 정의하는 것을 우선할 것.
