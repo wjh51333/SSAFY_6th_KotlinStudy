@@ -19,5 +19,3 @@ fun main() {
 		}
 	}
 }
-
-fun isPrime(n: Int): Boolean = (arr[n] != 0)
