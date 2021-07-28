@@ -12,7 +12,7 @@ fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
     val N = Integer.parseInt(token.nextToken());
     val M = Integer.parseInt(token.nextToken());
 
-    val visited:BooleanArray = BooleanArray(9) {false}
+    val visited:BooleanArray = BooleanArray(10) {false}
 
     DFS(visited, ArrayList<Int>(), N, M, 0)
 }
