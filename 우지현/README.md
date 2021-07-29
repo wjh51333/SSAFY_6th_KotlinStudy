@@ -8,7 +8,7 @@
 |**7/26(월)**|11단계 [7568](https://www.acmicpc.net/problem/7568)([풀이](./BOJ/7568_덩치.kt)), 12단계 [18870](https://www.acmicpc.net/problem/18870)([풀이](./BOJ/18870_좌표%20압축.kt)), [2750](https://www.acmicpc.net/problem/2750)([풀이](./BOJ/2750_수%20정렬하기.kt))|[Kotlin 기본 다지기 4](https://woojeenow.tistory.com/entry/Kotlin-%EA%B8%B0%EB%B3%B8-%EB%8B%A4%EC%A7%80%EA%B8%B0-4)|
 |**7/27(화)**|[Kotlin Collections](https://woojeenow.tistory.com/entry/Kotlin-Collections%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-List-Map-Set), 14단계 [15649](https://www.acmicpc.net/problem/15649)([풀이](./BOJ/15649_N과%20M%20(1).kt))||
 |**7/28(수)**|15단계 [1003](https://www.acmicpc.net/problem/1003)([풀이](./BOJ/1003_피보나치%20함수.kt)), 16단계 [11399](https://www.acmicpc.net/problem/11399)([풀이](./BOJ/11399_ATM.kt)), 17단계 [2609](https://www.acmicpc.net/problem/2609)([풀이](./BOJ/2609_최대공약수와%20최소공배수.kt))||
-|**7/29(목)**|||
+|**7/29(목)**|[Kotlin Collection 함수 API](https://woojeenow.tistory.com/entry/Kotlin-Collection-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-filter-map?category=879651), 18단계 [17298](https://www.acmicpc.net/problem/17298)([풀이](./BOJ/17298_오큰수.kt)), 19단계 [5430](https://www.acmicpc.net/problem/5430)([풀이](./BOJ/5430_AC.kt))||
 |**7/30(금)**|||
 |**7/31(토)**|||
 |**8/1(일)**|||
