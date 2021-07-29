@@ -8,7 +8,7 @@
 |**7/26(월)**|4단계([1110](https://www.acmicpc.net/problem/1110))|
 |**7/27(화)**|5단계([1546](https://www.acmicpc.net/problem/1546)) 6단계([1065](https://www.acmicpc.net/problem/1065))|
 |**7/28(수)**|7단계([1152](https://www.acmicpc.net/problem/1152)) 8단계([1712](https://www.acmicpc.net/problem/1712)) 9단계([4948](https://www.acmicpc.net/problem/4948)) 10단계([10872](https://www.acmicpc.net/problem/10872))|
-|**7/29(목)**||
+|**7/29(목)**|11단계([7568](https://www.acmicpc.net/problem/7568)) 12단계([1427](https://www.acmicpc.net/problem/1427)) 14단계([15649](https://www.acmicpc.net/problem/15649)) 15단계([1932](https://www.acmicpc.net/problem/1932))|
 |**7/30(금)**||
 |**7/31(토)**||
 |**8/1(일)**||
