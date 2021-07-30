@@ -9,7 +9,7 @@
 |**7/27(화)**|18단계[[10828]](https://www.acmicpc.net/problem/10828) , Kotlin시간초과[[18870]](https://www.acmicpc.net/problem/18870)|
 |**7/28(수)**|19단계[[2164]](https://www.acmicpc.net/problem/2164)|
 |**7/29(목)**|18단계[[9012]](https://www.acmicpc.net/problem/9012)|
-|**7/30(금)**|14단계[[15649]](https://www.acmicpc.net/problem/15649)|
+|**7/30(금)**|14단계[[15649]](https://www.acmicpc.net/problem/15649) , 16단계[[11399]](https://www.acmicpc.net/problem/11399)|
 |**7/31(토)**||
 |**8/1(일)**||
 |**8/2(월)**||
