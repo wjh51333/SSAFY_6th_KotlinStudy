@@ -306,3 +306,8 @@ until
    11 단계 Brute-Force : 문제를 이해하고 정의하는 것을 우선할 것.   
    12 단계 정렬&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 카운팅 정렬의 실패   
    17 단계 DP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 상향식으로 풀이, 하향식은 아직 어려움
+   
+   *   *   *
+      
+   #### 🎈07/30(금)
+   2750 수 정렬하기 : 삽입정렬 잘못 풀음, 다시 풀어야 한다.
