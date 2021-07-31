@@ -10,7 +10,7 @@
 |**7/28(수)**|15단계 [1003](https://www.acmicpc.net/problem/1003)([풀이](./BOJ/1003_피보나치%20함수.kt)), 16단계 [11399](https://www.acmicpc.net/problem/11399)([풀이](./BOJ/11399_ATM.kt)), 17단계 [2609](https://www.acmicpc.net/problem/2609)([풀이](./BOJ/2609_최대공약수와%20최소공배수.kt))||
 |**7/29(목)**|[Kotlin Collection 함수 API](https://woojeenow.tistory.com/entry/Kotlin-Collection-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-filter-map?category=879651), 18단계 [17298](https://www.acmicpc.net/problem/17298)([풀이](./BOJ/17298_오큰수.kt)), 19단계 [5430](https://www.acmicpc.net/problem/5430)([풀이](./BOJ/5430_AC.kt))||
 |**7/30(금)**|20단계 [2630](https://www.acmicpc.net/problem/2630)([풀이](./BOJ/2630_색종이%20만들기.kt))|[BOJ 2630 오큰수](https://woojeenow.tistory.com/entry/BOJ-17298-%EC%98%A4%ED%81%B0%EC%88%98-cKotlin?category=877463)|
-|**7/31(토)**|||
+|**7/31(토)**|[BOJ 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)([풀이](./BOJ/1260_DFS와%20BFS.kt)), [BOJ 1697 숨바꼭질](https://www.acmicpc.net/problem/1697)([풀이](./BOJ/1697_숨바꼭질.kt))||
 |**8/1(일)**|||
 |**8/2(월)**|||
 |**8/3(화)**|||
