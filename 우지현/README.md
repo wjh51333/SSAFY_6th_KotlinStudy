@@ -12,7 +12,7 @@
 |**7/30(금)**|20단계 [2630](https://www.acmicpc.net/problem/2630)([풀이](./BOJ/2630_색종이%20만들기.kt))|[BOJ 2630 오큰수](https://woojeenow.tistory.com/entry/BOJ-17298-%EC%98%A4%ED%81%B0%EC%88%98-cKotlin?category=877463)|
 |**7/31(토)**|[BOJ 1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)([풀이](./BOJ/1260_DFS와%20BFS.kt)), [BOJ 1697 숨바꼭질](https://www.acmicpc.net/problem/1697)([풀이](./BOJ/1697_숨바꼭질.kt))||
 |**8/1(일)**|||
-|**8/2(월)**|||
+|**8/2(월)**|[프로그래머스 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)([풀이](./Programmers/네트워크.kt))||
 |**8/3(화)**|||
 |**8/4(수)**|||
 |**8/5(목)**|||
