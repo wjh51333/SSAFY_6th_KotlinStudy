@@ -10,9 +10,9 @@
 |**7/28(수)**|14단계[[15649]](https://www.acmicpc.net/problem/15649)[[15650]](https://www.acmicpc.net/problem/15650)|
 |**7/29(목)**|15단계[[1003]](https://www.acmicpc.net/problem/1003) 16단계[[11047]](https://www.acmicpc.net/problem/11047)  17단계[[5086]](https://www.acmicpc.net/problem/5086)| 
 |**7/30(금)**|18단계[[9012]](https://www.acmicpc.net/problem/9012) ?단계[[1629]](https://www.acmicpc.net/problem/1629) ?단계[[10830]](https://www.acmicpc.net/problem/10830) 20단계[[11444]](https://www.acmicpc.net/problem/11444)|
-|**7/31(토)**||
-|**8/1(일)**||
-|**8/2(월)**||
+|**7/31(토)**|X|
+|**8/1(일)**|X|
+|**8/2(월)**|X|
 |**8/3(화)**|| 
 |**8/4(수)**||
 |**8/5(목)**||
