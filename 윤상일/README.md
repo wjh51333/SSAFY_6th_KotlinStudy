@@ -10,9 +10,9 @@
 |**7/28(수)**|10단계([별 찍기 - 10](https://www.acmicpc.net/problem/2447)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2447_%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.kt)) 11단계([덩치](https://www.acmicpc.net/problem/7568)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/7568_%EB%8D%A9%EC%B9%98.kr)) 12단계([좌표 압축](https://www.acmicpc.net/problem/18870)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/18870_%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.kt))||
 |**7/29(목)**|14단계([N-Queens](https://www.acmicpc.net/problem/9663)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/9663_N-Queen.kt))||
 |**7/30(금)**|||
-|**7/31(토)**|||
-|**8/1(일)**|||
-|**8/2(월)**|||
+|**7/31(토)**|정처기 공부||
+|**8/1(일)**|정처기 공부||
+|**8/2(월)**|Lv.2([문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.kt))||
 |**8/3(화)**|||
 |**8/4(수)**|||
 |**8/5(목)**|||
