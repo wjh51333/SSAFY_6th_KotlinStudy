@@ -10,10 +10,10 @@
 |**7/28(수)**|19단계[[2164]](https://www.acmicpc.net/problem/2164)|
 |**7/29(목)**|18단계[[9012]](https://www.acmicpc.net/problem/9012)|
 |**7/30(금)**|14단계[[15649]](https://www.acmicpc.net/problem/15649) , 16단계[[11399]](https://www.acmicpc.net/problem/11399)|
-|**7/31(토)**||
-|**8/1(일)**||
-|**8/2(월)**||
-|**8/3(화)**||
+|**7/31(토)**|X|
+|**8/1(일)**|X|
+|**8/2(월)**|Programmers[[순위검색]](https://programmers.co.kr/learn/courses/30/lessons/72412)|
+|**8/3(화)**|Programmers[[문자열압축]](https://programmers.co.kr/learn/courses/30/lessons/60057)|
 |**8/4(수)**||
 |**8/5(목)**||
 |**8/6(금)**||
