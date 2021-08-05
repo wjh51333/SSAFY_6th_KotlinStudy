@@ -15,5 +15,5 @@
 |**8/2(월)**|Lv.2([문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.kt))||
 |**8/3(화)**|||
 |**8/4(수)**|||
-|**8/5(목)**|Lv.2([순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)/풀이 실패) Lv.3([네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=kotlin)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.kt)||
+|**8/5(목)**|Lv.2([순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)/풀이 실패) Lv.3([네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=kotlin)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.kt))||
 |**8/6(금)**|||
