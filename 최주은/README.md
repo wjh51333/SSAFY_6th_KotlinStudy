@@ -13,7 +13,7 @@
 |**7/31(토)**|X|
 |**8/1(일)**|X|
 |**8/2(월)**|보충수업|
-|**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)]| 
+|**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] + SSAFICIAL 회의| 
 |**8/4(수)**|SWEXPERT 과제|
 |**8/5(목)**||
 |**8/6(금)**||
