@@ -12,8 +12,8 @@
 |**7/30(금)**|18단계[[9012]](https://www.acmicpc.net/problem/9012) ?단계[[1629]](https://www.acmicpc.net/problem/1629) ?단계[[10830]](https://www.acmicpc.net/problem/10830) 20단계[[11444]](https://www.acmicpc.net/problem/11444)|
 |**7/31(토)**|X|
 |**8/1(일)**|X|
-|**8/2(월)**|X|
-|**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)]| 
-|**8/4(수)**||
+|**8/2(월)**|보충수업|
+|**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] + SSAFICIAL 회의| 
+|**8/4(수)**|SWEXPERT 과제|
 |**8/5(목)**||
 |**8/6(금)**||
