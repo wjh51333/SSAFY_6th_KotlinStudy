@@ -8,11 +8,11 @@
 |**7/26(월)**|5단계([평균은 넘겠지](https://www.acmicpc.net/problem/4344)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/4344_%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80.kt)) 6단계([셀프 넘버](https://www.acmicpc.net/problem/4673)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/4673_%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.kt)) 7단계([크로아티아 알파벳](https://www.acmicpc.net/problem/2941)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2941_%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3.kt)) 8단계([설탕 배달](https://www.acmicpc.net/problem/2839)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2839_%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC.kt))|[소수점 자릿수 설정, 반올림, 올림, 내림](https://meoru-tech.tistory.com/58)|
 |**7/27(화)**|9단계([골드바흐의 추측](https://www.acmicpc.net/problem/9020)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/9020_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.kt))|[소수 구하는 최적의 방법(아르키메데스의 체)](https://marobiana.tistory.com/91)|
 |**7/28(수)**|10단계([별 찍기 - 10](https://www.acmicpc.net/problem/2447)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2447_%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2010.kt)) 11단계([덩치](https://www.acmicpc.net/problem/7568)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/7568_%EB%8D%A9%EC%B9%98.kr)) 12단계([좌표 압축](https://www.acmicpc.net/problem/18870)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/18870_%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.kt))||
-|**7/29(목)**|||
+|**7/29(목)**|14단계([N-Queens](https://www.acmicpc.net/problem/9663)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/9663_N-Queen.kt))||
 |**7/30(금)**|||
-|**7/31(토)**|||
-|**8/1(일)**|||
-|**8/2(월)**|||
+|**7/31(토)**|정처기 공부||
+|**8/1(일)**|정처기 공부||
+|**8/2(월)**|Lv.2([문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.kt))||
 |**8/3(화)**|||
 |**8/4(수)**|||
 |**8/5(목)**|||
