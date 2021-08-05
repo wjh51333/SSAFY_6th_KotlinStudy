@@ -14,6 +14,6 @@
 |**8/1(일)**|X|
 |**8/2(월)**|Programmers[[순위검색]](https://programmers.co.kr/learn/courses/30/lessons/72412)|
 |**8/3(화)**|Programmers[[문자열압축]](https://programmers.co.kr/learn/courses/30/lessons/60057)|
-|**8/4(수)**||
+|**8/4(수)**|X|
 |**8/5(목)**||
 |**8/6(금)**||
