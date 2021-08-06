@@ -23,7 +23,7 @@
 | **7/31(토)** | BOJ 1260 [DFS와 BFS](https://www.acmicpc.net/problem/1260)([풀이](./BOJ/1260_DFS와%20BFS.kt)), BOJ 1697 [숨바꼭질](https://www.acmicpc.net/problem/1697)([풀이](./BOJ/1697_숨바꼭질.kt)) |                                                              |
 | **8/1(일)**  |                                                              |                                                              |
 
-
+<br>
 
 </details>
 
@@ -45,8 +45,7 @@
 | **8/8(일)** |                                                              |                                                              |
 
 
-
-------
+<br>
 
 </details>
 
@@ -68,8 +67,7 @@
 | **8/15(일)** |      |        |
 
 
-
-------
+<br>
 
 </details>
 
@@ -91,7 +89,6 @@
 | **8/22(일)** |      |        |
 
 
-
-------
+<br>
 
 </details>
