@@ -52,7 +52,7 @@
 
 </details>
 
-<br />
+
 
 <details markdown="1">
 <summary><strong> &#127804; 3주차 &#127804; (2021/08/09 ~ 2021/08/15)</strong></summary>
@@ -75,7 +75,7 @@
 
 </details>
 
-<br />
+
 
 <details markdown="1">
 <summary><strong> &#127804; 4주차 &#127804; (2021/08/16 ~ 2021/08/22)</strong></summary>
