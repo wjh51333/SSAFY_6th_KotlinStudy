@@ -11,7 +11,7 @@ class Solution {
             if (!checked[i]) {
                 queue.add(i)
                 answer += 1
-                checked[i] = false
+                checked[i] = true
             }
 
             while (!queue.isEmpty()) {
