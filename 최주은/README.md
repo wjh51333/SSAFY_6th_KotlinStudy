@@ -16,4 +16,15 @@
 |**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] 구현중<br>+ SSAFICIAL 회의| 
 |**8/4(수)**|SWEXPERT 과제|
 |**8/5(목)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] 구현중<br>+ [[Programmers_LV2_순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)] 구현중<br>+ 보충 |
-|**8/6(금)**||
+|**8/6(금)**|[[Programmers_LV3_네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)]|
+|**8/7(토)**||
+|**8/8(일)**||
+|**8/9(월)**||
+|**8/10(화)**||
+|**8/11(수)**||
+|**8/12(목)**||
+|**8/13(금)**||
+|**8/14(토)**||
+|**8/15(일)**||
+|**8/16(월)**||
+|**8/17(화)**||
