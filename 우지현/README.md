@@ -29,7 +29,7 @@
 
 </details>
 
-<br />
+
 
 <details markdown="1">
 <summary><strong> &#127804; 2주차 &#127804; (2021/08/02 ~ 2021/08/08)</strong></summary>
