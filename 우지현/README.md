@@ -36,12 +36,12 @@
 
 |    날짜     |                             내용                             |                            정리글                            |
 | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **8/2(월)** | 프로그래머스 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)([풀이](./Programmers/네트워크.kt)),<br />BOJ 1520 [내리막 길](https://www.acmicpc.net/problem/1520)([풀이](./BOJ/1520_내리막%20길.kt)) | 프로그래머스 [네트워크](https://woojeenow.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-cKotlin) |
-| **8/3(화)** | 프로그래머스 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)([풀이](./Programmers/문자열%20압축.kt)),<br />BOJ 7785 [회사에 있는 사람](https://www.acmicpc.net/problem/7785)([풀이](./BOJ/7785_회사에%20있는%20사람.kt)) | 프로그래머스 [문자열 압축](https://woojeenow.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-ckotlin?category=877464) |
+| **8/2(월)** | 프로그래머스 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)([풀이](./Programmers/네트워크.kt))<br />BOJ 1520 [내리막 길](https://www.acmicpc.net/problem/1520)([풀이](./BOJ/1520_내리막%20길.kt)) | 프로그래머스 [네트워크](https://woojeenow.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-cKotlin) |
+| **8/3(화)** | 프로그래머스 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)([풀이](./Programmers/문자열%20압축.kt))<br />BOJ 7785 [회사에 있는 사람](https://www.acmicpc.net/problem/7785)([풀이](./BOJ/7785_회사에%20있는%20사람.kt)) | 프로그래머스 [문자열 압축](https://woojeenow.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95-ckotlin?category=877464) |
 | **8/4(수)** | BOJ 1251 [단어 나누기](https://www.acmicpc.net/problem/1251)([풀이](./BOJ/1251_단어%20나누기.kt)) |                                                              |
 | **8/5(목)** | BOJ 15681 [트리와 쿼리](https://www.acmicpc.net/problem/15681)([풀이](./BOJ/15681_트리와%20쿼리.kt)) |                                                              |
-| **8/6(금)** | 프로그래머스 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)([풀이](./Programmers/순위%20검색.kt)), BOJ 15824 [너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)([풀이](./BOJ/15824_너%20봄에는%20캡사이신이%20맛있단다.kt)) |                                                              |
-| **8/7(토)** |                                                              |                                                              |
+| **8/6(금)** | 프로그래머스 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)([풀이](./Programmers/순위%20검색.kt))<br />BOJ 15824 [너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)([풀이](./BOJ/15824_너%20봄에는%20캡사이신이%20맛있단다.kt)) |                                                              |
+| **8/7(토)** | BOJ 7576 [토마토](https://www.acmicpc.net/problem/7576)([풀이](./BOJ/7576_토마토.kt))<br />BOJ 1012 [유기농 배추](https://www.acmicpc.net/problem/1012)([풀이](./BOJ/1012_유기농%20배추.kt)) |                                                              |
 | **8/8(일)** |                                                              |                                                              |
 
 <br>
