@@ -42,7 +42,7 @@
 | **8/5(목)** | BOJ 15681 [트리와 쿼리](https://www.acmicpc.net/problem/15681)([풀이](./BOJ/15681_트리와%20쿼리.kt)) |                                                              |
 | **8/6(금)** | 프로그래머스 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)([풀이](./Programmers/순위%20검색.kt))<br />BOJ 15824 [너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)([풀이](./BOJ/15824_너%20봄에는%20캡사이신이%20맛있단다.kt)) |                                                              |
 | **8/7(토)** | BOJ 7576 [토마토](https://www.acmicpc.net/problem/7576)([풀이](./BOJ/7576_토마토.kt))<br />BOJ 1012 [유기농 배추](https://www.acmicpc.net/problem/1012)([풀이](./BOJ/1012_유기농%20배추.kt)) |                                                              |
-| **8/8(일)** |                                                              |                                                              |
+| **8/8(일)** | BOJ 2589 [보물섬](https://www.acmicpc.net/problem/2589)([풀이](./BOJ/2589_보물섬.kt)) |                                                              |
 
 <br>
 
