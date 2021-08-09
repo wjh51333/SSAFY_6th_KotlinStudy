@@ -16,4 +16,11 @@
 |**8/3(화)**|Programmers[[문자열압축]](https://programmers.co.kr/learn/courses/30/lessons/60057)|
 |**8/4(수)**|X|
 |**8/5(목)**|Programmers[[네트워크]](https://programmers.co.kr/learn/courses/30/lessons/43162)|
-|**8/6(금)**||
+|**8/6(금)**|X|
+|**8/7(토)**|X|
+|**8/8(일)**|X|
+|**8/9(월)**|[BOJ_1012[유기농배추]](https://www.acmicpc.net/problem/1012)|
+|**8/10(화)**||
+|**8/11(수)**||
+|**8/12(목)**||
+|**8/13(금)**||
