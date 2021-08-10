@@ -19,8 +19,8 @@
 |**8/6(금)**|[[Programmers_LV3_네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)]|
 |**8/7(토)**|X|
 |**8/8(일)**|X|
-|**8/9(월)**|BOJ [[2504]](https://www.acmicpc.net/problem/2504) 풀이중|
-|**8/10(화)**||
+|**8/9(월)**|BOJ [[2504]](https://www.acmicpc.net/problem/2504) 풀이중 BOJ [[1966]](https://www.acmicpc.net/problem/1966)|
+|**8/10(화)**|[[Programmers_LV1_체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)]|
 |**8/11(수)**||
 |**8/12(목)**||
 |**8/13(금)**||
