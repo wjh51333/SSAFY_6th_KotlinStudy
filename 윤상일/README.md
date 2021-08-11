@@ -19,3 +19,5 @@
 |**8/6(금)**|||
 |**8/7(토)**|정처기 공부||
 |**8/8(일)**|DFS([유기농 배추](https://www.acmicpc.net/problem/1012)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.kt))||
+|**8/9(월)**|정처기 공부||
+|**8/10(화)**|BFS([토마토](https://www.acmicpc.net/problem/7576)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/7576_%ED%86%A0%EB%A7%88%ED%86%A0.kt))||
