@@ -20,7 +20,7 @@
 |**8/7(토)**|X|
 |**8/8(일)**|X|
 |**8/9(월)**|[BOJ_1012[유기농배추]](https://www.acmicpc.net/problem/1012)|
-|**8/10(화)**|BOJ_1075[나누기](https://www.acmicpc.net/problem/1075)|
-|**8/11(수)**|BOJ_7576[토마토](https://www.acmicpc.net/problem/7576)|
+|**8/10(화)**|[BOJ_1075[나누기]](https://www.acmicpc.net/problem/1075)|
+|**8/11(수)**|[BOJ_7576[토마토]](https://www.acmicpc.net/problem/7576)|
 |**8/12(목)**||
 |**8/13(금)**||
