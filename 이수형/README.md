@@ -22,5 +22,5 @@
 |**8/9(월)**|[BOJ_1012[유기농배추]](https://www.acmicpc.net/problem/1012)|
 |**8/10(화)**|X|
 |**8/11(수)**|[BOJ_7576[토마토]](https://www.acmicpc.net/problem/7576)<br/>[BOJ_1075[나누기]](https://www.acmicpc.net/problem/1075)|
-|**8/12(목)**||
+|**8/12(목)**|BOJ_2589[보물섬]](https://www.acmicpc.net/problem/2589)|
 |**8/13(금)**||
