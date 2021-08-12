@@ -3,7 +3,7 @@ import java.util.*
 
 lateinit var map: Array<Array<Int>>
 lateinit var visited: Array<Array<Boolean>>
-var n: Int = 0; var m: Int = 0;
+var n: Int = 0; var m: Int = 0
 
 fun main() {
     val t = readLine()!!.toInt()
