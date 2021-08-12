@@ -41,7 +41,7 @@ fun dfs() {
 fun bfs(): Int {
     val dx = arrayOf(-1, 1, 0, 0)
     val dy = arrayOf(0, 0, -1, 1)
-    var queue: Queue<IntArray> = LinkedList();
+    var queue: Queue<IntArray> = LinkedList()
 
     // 첫 날 익은 토마토 위치 저장 (세로위치, 가로위치, 날짜)
     for (i in 0 until n)
