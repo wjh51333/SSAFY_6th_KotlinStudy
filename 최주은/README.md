@@ -22,7 +22,7 @@
 |**8/9(월)**|BOJ [[2504]](https://www.acmicpc.net/problem/2504) 풀이중 BOJ[[1966]](https://www.acmicpc.net/problem/1966)|
 |**8/10(화)**|[[Programmers_LV1_체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)] [[BOJ_1012_유기농배추]](https://www.acmicpc.net/problem/1012)|
 |**8/11(수)**|[[BOJ_7576_토마토]](https://www.acmicpc.net/problem/7576)|
-|**8/12(목)**||
+|**8/12(목)**|[[BOJ_2589_보물섬]](https://www.acmicpc.net/problem/2589)|
 |**8/13(금)**||
 |**8/14(토)**||
 |**8/15(일)**||
