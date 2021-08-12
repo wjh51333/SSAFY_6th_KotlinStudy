@@ -56,7 +56,7 @@ fun dfs(x: Int, y: Int): Int {
 }
 
 fun bfs(x: Int, y: Int): Int {
-    var queue: Queue<Pair<Int, Int>> = LinkedList();
+    var queue: Queue<Pair<Int, Int>> = LinkedList()
 
     visited[x][y] = true
     queue.add(Pair(x, y))
