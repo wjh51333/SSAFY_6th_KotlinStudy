@@ -40,7 +40,7 @@
 |날짜|내용|
 |------:|:---:|
 |**8/14(토)**||
-|**8/15(일)**|[boj11279_최대힙](https://www.acmicpc.net/problem/11279)|
+|**8/15(일)**|[boj11279_최대힙](https://www.acmicpc.net/problem/11279)<br/>[boj4256_트리](https://www.acmicpc.net/problem/4256)|
 |**8/16(월)**||
 |**8/17(화)**||
 |**8/18(수)**||
