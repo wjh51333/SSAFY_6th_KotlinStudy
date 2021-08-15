@@ -61,9 +61,9 @@
 | **8/10(화)** | BOJ 1157 [단어 공부](https://www.acmicpc.net/problem/1157)([풀이](./BOJ/1157_단어%20공부.kt)) |                                                              |
 | **8/11(수)** |                                                              |                                                              |
 | **8/12(목)** | BOJ 11441 [합 구하기](https://www.acmicpc.net/problem/11441)([풀이](./BOJ/11441_합%20구하기.kt))<br />BOJ 6597 [트리 복구](https://www.acmicpc.net/problem/6597)([풀이](./BOJ/6597_트리%20복구.kt)) |                                                              |
-| **8/13(금)** |                              X                               |                                                              |
-| **8/14(토)** | BOJ 2870 [수학숙제](https://www.acmicpc.net/problem/2870)([풀이](./BOJ/2870_수학숙제.kt))<br />BOJ 11931 [수 정렬하기 4](https://www.acmicpc.net/problem/11931)([풀이](./BOJ/11931_수%20정렬하기%204.kt)) | [kotlin 정규식](https://jeongupark-study-house.tistory.com/144) |
-| **8/15(일)** |                                                              |                                                              |
+| **8/13(금)** |                                                              |                                                              |
+| **8/14(토)** | BOJ 2870 [수학숙제](https://www.acmicpc.net/problem/2870)([풀이](./BOJ/2870_수학숙제.kt))<br />BOJ 11931 [수 정렬하기 4](https://www.acmicpc.net/problem/11931)([풀이](./BOJ/11931_수%20정렬하기%204.kt)) | [Kotlin 정규식](https://jeongupark-study-house.tistory.com/144) |
+| **8/15(일)** | BOJ 11279 [최대 힙](https://www.acmicpc.net/problem/11279)([풀이](./BOJ/11279_최대%20힙.kt)) |                                                              |
 
 <br>
 
