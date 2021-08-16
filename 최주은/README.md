@@ -23,10 +23,10 @@
 |**8/10(화)**|[[Programmers_LV1_체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)] [[BOJ_1012_유기농배추]](https://www.acmicpc.net/problem/1012)|
 |**8/11(수)**|[[BOJ_7576_토마토]](https://www.acmicpc.net/problem/7576)|
 |**8/12(목)**|[[BOJ_2589_보물섬]](https://www.acmicpc.net/problem/2589)|
-|**8/13(금)**||
-|**8/14(토)**||
-|**8/15(일)**||
-|**8/16(월)**||
+|**8/13(금)**|X|
+|**8/14(토)**|X|
+|**8/15(일)**|X|
+|**8/16(월)**|[[Programmers_LV1_키패드](https://programmers.co.kr/learn/courses/30/lessons/67256)]|
 |**8/17(화)**||
 |**8/11(수)**||
 |**8/12(목)**||
