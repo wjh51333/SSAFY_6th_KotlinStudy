@@ -23,3 +23,5 @@
 |**8/10(화)**|BFS([토마토](https://www.acmicpc.net/problem/7576)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/7576_%ED%86%A0%EB%A7%88%ED%86%A0.kt))||
 |**8/11(수)**|정처기 & 보물섬 틀잡기||
 |**8/12(목)**|BFS([보물섬](https://www.acmicpc.net/problem/2589)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2589_%EB%B3%B4%EB%AC%BC%EC%84%AC.kt))||
+|**8/14(토)**|정처기 필합!||
+|**8/17(화)**|트리([트리](https://www.acmicpc.net/problem/4256)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/4256_%ED%8A%B8%EB%A6%AC.kt))||
