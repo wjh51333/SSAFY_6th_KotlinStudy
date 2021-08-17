@@ -1,19 +1,31 @@
-fun main() {
-	repeat(readLine()!!.toInt()) {
-		val n = readLine()!!.toInt()
-		val preorder = Array<Int>(n) {0}
-		val inorder = Array<Int>(n) {0}
-		for (i in 0 until n)
-			preorder[i] = readLine()!!.toInt()
-		for (i in 0 until n)
-			inorder[i] = readLine()!!.toInt()
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.util.*
 
-		// nx3 이차원 배열을 통해 트리 구조 표현. i행 0/1/2 => i 노드의 왼쪽자식/오른쪽자식/부모. 없을 경우 0.
-		val tree = Array<Array<Int>>(n) { Array<Int>(3) {0} }
-		makeTree(0, n - 1, preorder, inorder, tree)
+var nextCheck = 0
+
+fun main() = with(BufferedReader(InputStreamReader(System.`in`))){
+	repeat(readLine().toInt()) {
+		nextCheck = 0
+		val n = readLine().toInt()
+		val preorder = IntArray(n)
+		val inorder = IntArray(n)
+		var st = StringTokenizer(readLine())
+		for (i in 0 until n)
+			preorder[i] = st.nextToken().toInt()
+		st = StringTokenizer(readLine())
+		for (i in 0 until n)
+			inorder[i] = st.nextToken().toInt()
+
+		postorderPrint(0, n - 1, preorder, inorder)
+		println()
 	}
 }
 
-fun makeTree(leftBound:Int, RightBound:Int, preorder:Array<Int>, inorder:Array<Int>, tree:Array<Array<Int>>) {
-
+fun postorderPrint(leftBound:Int, rightBound:Int, preorder:IntArray, inorder:IntArray) {
+	val point = inorder.indexOf(preorder[nextCheck])
+	nextCheck++
+	if (point > leftBound) postorderPrint(leftBound, point - 1, preorder, inorder)
+	if (point < rightBound) postorderPrint(point + 1, rightBound, preorder, inorder)
+	print(inorder[point].toString() + " ")
 }
