@@ -43,7 +43,7 @@
 |**8/15(일)**|[boj11279_최대힙](https://www.acmicpc.net/problem/11279)<br/>[boj4256_트리](https://www.acmicpc.net/problem/4256)|
 |**8/16(월)**||
 |**8/17(화)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800) 아직자바로만품|
-|**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)|
+|**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)<br/>[boj2075_N번째큰수](https://www.acmicpc.net/problem/2800)|
 |**8/19(목)**||
 |**8/20(금)**||
 
