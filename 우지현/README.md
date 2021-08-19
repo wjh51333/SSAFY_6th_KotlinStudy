@@ -81,7 +81,7 @@
 | **8/16(월)** | BOJ 4256 [트리](https://www.acmicpc.net/problem/4256)([풀이](./BOJ/4256_트리.kt)) | [[BOJ 4256] 트리](https://woojeenow.tistory.com/entry/%EB%B0%B1%EC%A4%80-4256-%ED%8A%B8%EB%A6%AC-c?category=877463) |
 | **8/17(화)** | BOJ 1743 [음식물 피하기](https://www.acmicpc.net/problem/1743)([풀이](./BOJ/1743_음식물%20피하기.kt)) |                                                              |
 | **8/18(수)** |                                                              |                                                              |
-| **8/19(목)** |                                                              |                                                              |
+| **8/19(목)** | BOJ 2800 [괄호 제거](https://www.acmicpc.net/problem/2800)([풀이](./BOJ/2800_괄호%20제거.kt)) |                                                              |
 | **8/20(금)** |                                                              |                                                              |
 | **8/21(토)** |                                                              |                                                              |
 | **8/22(일)** |                                                              |                                                              |
