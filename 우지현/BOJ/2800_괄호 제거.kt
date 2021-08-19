@@ -7,6 +7,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     solve(0, "", 0, 0)
     answer.sort()
     answer.forEach { bw.write("$it\n") }
+    bw.flush()
 }
 
 private fun solve(idx : Int, now : String, flag : Int, cnt : Int) {
