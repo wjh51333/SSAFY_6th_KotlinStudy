@@ -45,7 +45,7 @@
 |**8/17(화)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800) 아직자바로만품|
 |**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)<br/>[boj2075_N번째큰수](https://www.acmicpc.net/problem/2800)|
 |**8/19(목)**||
-|**8/20(금)**||
+|**8/20(금)**|[boj20365_블로그2](https://www.acmicpc.net/problem/20365)|
 
 
 <br>
