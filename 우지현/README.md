@@ -83,7 +83,7 @@
 | **8/18(수)** |                                                              |                                                              |
 | **8/19(목)** | BOJ 2800 [괄호 제거](https://www.acmicpc.net/problem/2800)([풀이](./BOJ/2800_괄호%20제거.kt)) |                                                              |
 | **8/20(금)** |                                                              |                                                              |
-| **8/21(토)** |                                                              |                                                              |
+| **8/21(토)** | BOJ 11654 [아스키 코드](https://www.acmicpc.net/problem/11654)([풀이](./BOJ/11654_아스키%20코드.kt))<br />BOJ 2675 [문자열 반복](https://www.acmicpc.net/problem/2675)([풀이](./BOJ/2675_문자열%20반복.kt))<br />BOJ 2920 [음계](https://www.acmicpc.net/problem/2920)([풀이](./BOJ/2920_음계.kt))<br />BOJ 8958 [OX퀴즈](https://www.acmicpc.net/problem/8958)([풀이](./BOJ/8958_OX퀴즈.kt)) |                                                              |
 | **8/22(일)** |                                                              |                                                              |
 
 
