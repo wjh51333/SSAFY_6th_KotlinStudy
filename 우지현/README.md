@@ -95,7 +95,7 @@
 
 
 <details markdown="1">
-<summary><strong> &#127804; 5주차 &#127804; (2021/08/21 ~ 2021/08/27)</strong></summary>
+<summary><strong> &#127804; 6주차 &#127804; (2021/08/21 ~ 2021/08/27)</strong></summary>
 <br>
 <br>
 
