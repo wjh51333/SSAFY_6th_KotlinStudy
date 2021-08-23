@@ -100,11 +100,12 @@
 <br>
 
 
+
 |     날짜     |                             내용                             | 정리글 |
 | :----------: | :----------------------------------------------------------: | :----: |
 | **8/21(토)** | BOJ 11654 [아스키 코드](https://www.acmicpc.net/problem/11654)([풀이](./BOJ/11654_아스키%20코드.kt))<br />BOJ 2675 [문자열 반복](https://www.acmicpc.net/problem/2675)([풀이](./BOJ/2675_문자열%20반복.kt))<br />BOJ 2920 [음계](https://www.acmicpc.net/problem/2920)([풀이](./BOJ/2920_음계.kt))<br />BOJ 8958 [OX퀴즈](https://www.acmicpc.net/problem/8958)([풀이](./BOJ/8958_OX퀴즈.kt)) |        |
 | **8/22(일)** | BOJ 1152 [단어의 개수](https://www.acmicpc.net/problem/1152)([풀이](./BOJ/1152_단어의%20개수.kt))<br />BOJ 1546 [평균](https://www.acmicpc.net/problem/1546)([풀이](./BOJ/1546_평균.kt))<br />BOJ 2475 [검증수](https://www.acmicpc.net/problem/2475)([풀이](./BOJ/2475_검증수.kt))<br />BOJ 3052 [나머지](https://www.acmicpc.net/problem/3052)([풀이](./BOJ/3052_나머지.kt)) |        |
-| **8/23(월)** |                                                              |        |
+| **8/23(월)** | BOJ 11050 [이항 계수 1](https://www.acmicpc.net/problem/11050)([풀이](./BOJ/11050_이항%20계수%201.kt))<br />BOJ 10250 [ACM 호텔](https://www.acmicpc.net/problem/10250)([풀이](./BOJ/10250_ACM%20호텔.kt))<br />BOJ 4153 [직각삼각형](https://www.acmicpc.net/problem/4153)([풀이](./BOJ/4153_직각삼각형.kt))<br />BOJ 1259 [팰린드롬수](https://www.acmicpc.net/problem/1259)([풀이](./BOJ/1259_팰린드롬수.kt)) |        |
 | **8/24(화)** |                                                              |        |
 | **8/25(수)** |                                                              |        |
 | **8/26(목)** |                                                              |        |
@@ -117,9 +118,10 @@
 
 
 <details markdown="1">
-<summary><strong> &#127804; 5주차 &#127804; (2021/08/28 ~ 2021/09/03)</strong></summary>
+<summary><strong> &#127804; 6주차 &#127804; (2021/08/28 ~ 2021/09/03)</strong></summary>
 <br>
 <br>
+
 
 
 |     날짜     | 내용 | 정리글 |
