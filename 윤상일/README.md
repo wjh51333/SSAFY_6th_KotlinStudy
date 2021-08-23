@@ -26,3 +26,4 @@
 |**8/14(토)**|정처기 필합!||
 |**8/17(화)**|트리([트리](https://www.acmicpc.net/problem/4256)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/4256_%ED%8A%B8%EB%A6%AC.kt))||
 |**8/18(수)**|최대힙([최대힙](https://www.acmicpc.net/problem/11279)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/tree/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ))||
+|**8/23(월)**|수학-진법([폰 호석만](https://www.acmicpc.net/problem/21275)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/21275_%ED%8F%B0%20%ED%98%B8%EC%84%9D%EB%A7%8C.kt))||
