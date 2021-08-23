@@ -60,7 +60,7 @@
 |------:|:---:|
 |**8/21(토)**|[boj21275_폰호석만](https://www.acmicpc.net/problem/21275)|
 |**8/22(일)**|[boj2960_에라토스테네스의체](https://www.acmicpc.net/problem/2960)<br/>[boj21317_징검다리건너기](https://www.acmicpc.net/problem/21317)|
-|**8/23(월)**||
+|**8/23(월)**|[boj2493_탑](https://www.acmicpc.net/problem/2493)|
 |**8/24(화)**||
 |**8/25(수)**||
 |**8/26(목)**||
