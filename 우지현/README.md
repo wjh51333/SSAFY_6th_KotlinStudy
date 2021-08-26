@@ -108,7 +108,7 @@
 | **8/23(월)** | BOJ 11050 [이항 계수 1](https://www.acmicpc.net/problem/11050)([풀이](./BOJ/11050_이항%20계수%201.kt))<br />BOJ 10250 [ACM 호텔](https://www.acmicpc.net/problem/10250)([풀이](./BOJ/10250_ACM%20호텔.kt))<br />BOJ 4153 [직각삼각형](https://www.acmicpc.net/problem/4153)([풀이](./BOJ/4153_직각삼각형.kt))<br />BOJ 1259 [팰린드롬수](https://www.acmicpc.net/problem/1259)([풀이](./BOJ/1259_팰린드롬수.kt)) |        |
 | **8/24(화)** |                                                              |        |
 | **8/25(수)** |                                                              |        |
-| **8/26(목)** |                                                              |        |
+| **8/26(목)** | BOJ 21317 [징검다리 건너기](https://www.acmicpc.net/problem/21317)([풀이](./BOJ/21317_징검다리%20건너기.kt))<br />BOJ 19598 [최소 회의실 개수](https://www.acmicpc.net/problem/19598)([풀이](./BOJ/19598_최소%20회의실%20개수.kt)) |        |
 | **8/27(금)** |                                                              |        |
 
 <br>
