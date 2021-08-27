@@ -28,9 +28,11 @@ fun main() = with(System.`in`.bufferedReader()) {
         }
     }
 
-    if (cnt == 0) println("Impossible") // 만족하는 경우가 없음
-    else if (cnt == 1) println("$x $a $b") // X, A, B가 유일하게 존재
-    else println("Multiple") // 만족하는 경우가 2가지 이상
+    when (cnt) {
+        0 -> println("Impossible") // 만족하는 경우가 없음
+        1 -> println("$x $a $b") // X, A, B가 유일하게 존재
+        else -> println("Multiple") // 만족하는 경우가 2가지 이상
+    }
 }
 
 private fun init() {
