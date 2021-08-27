@@ -64,7 +64,7 @@
 |**8/24(화)**|X|
 |**8/25(수)**|IM검정대비로 java|
 |**8/26(목)**|IM검정대비로 java|
-|**8/27(금)**|[boj19598](https://www.acmicpc.net/problem/19598)|
+|**8/27(금)**|[boj19598_최소회의실개수](https://www.acmicpc.net/problem/19598)|
 
 
 <br>
