@@ -1,4 +1,8 @@
 ### 💡 Study Diary 수형  
+<details markdown="1">
+<summary><strong>  Kotiln (2021/07/23 ~ 2021/08/13)</strong></summary>
+<br>
+<br>
 
 |날짜|내용|
 |------:|:---:|
@@ -16,4 +20,53 @@
 |**8/3(화)**|Programmers[[문자열압축]](https://programmers.co.kr/learn/courses/30/lessons/60057)|
 |**8/4(수)**|X|
 |**8/5(목)**|Programmers[[네트워크]](https://programmers.co.kr/learn/courses/30/lessons/43162)|
-|**8/6(금)**||
+|**8/6(금)**|X|
+|**8/7(토)**|X|
+|**8/8(일)**|X|
+|**8/9(월)**|[BOJ_1012[유기농배추]](https://www.acmicpc.net/problem/1012)|
+|**8/10(화)**|X|
+|**8/11(수)**|[BOJ_7576[토마토]](https://www.acmicpc.net/problem/7576)<br/>[BOJ_1075[나누기]](https://www.acmicpc.net/problem/1075)|
+|**8/12(목)**|[BOJ_2589[보물섬]](https://www.acmicpc.net/problem/2589)|
+|**8/13(금)**||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong>  Kotiln (2021/08/14 ~ 2021/08/20)</strong></summary>
+<br>
+<br>
+
+|날짜|내용|
+|------:|:---:|
+|**8/14(토)**||
+|**8/15(일)**|[boj11279_최대힙](https://www.acmicpc.net/problem/11279)<br/>[boj4256_트리](https://www.acmicpc.net/problem/4256)|
+|**8/16(월)**||
+|**8/17(화)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800) 아직자바로만품|
+|**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)<br/>[boj2075_N번째큰수](https://www.acmicpc.net/problem/2800)|
+|**8/19(목)**||
+|**8/20(금)**|[boj20365_블로그2](https://www.acmicpc.net/problem/20365)|
+
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong>  Kotiln (2021/08/21 ~ 2021/08/27)</strong></summary>
+<br>
+<br>
+
+|날짜|내용|
+|------:|:---:|
+|**8/21(토)**|[boj21275_폰호석만](https://www.acmicpc.net/problem/21275)|
+|**8/22(일)**|[boj2960_에라토스테네스의체](https://www.acmicpc.net/problem/2960)<br/>[boj21317_징검다리건너기](https://www.acmicpc.net/problem/21317)|
+|**8/23(월)**|[boj2493_탑](https://www.acmicpc.net/problem/2493)|
+|**8/24(화)**||
+|**8/25(수)**||
+|**8/26(목)**||
+|**8/27(금)**||
+
+
+<br>
+</details>
+

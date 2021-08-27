@@ -11,9 +11,37 @@
 |**7/29(목)**|15단계[[1003]](https://www.acmicpc.net/problem/1003) 16단계[[11047]](https://www.acmicpc.net/problem/11047)  17단계[[5086]](https://www.acmicpc.net/problem/5086)| 
 |**7/30(금)**|18단계[[9012]](https://www.acmicpc.net/problem/9012) ?단계[[1629]](https://www.acmicpc.net/problem/1629) ?단계[[10830]](https://www.acmicpc.net/problem/10830) 20단계[[11444]](https://www.acmicpc.net/problem/11444)|
 |**7/31(토)**|X|
-|**8/1(일)**|X|
+|**8/1(일)**|X|  
 |**8/2(월)**|보충수업|
 |**8/3(화)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] 구현중<br>+ SSAFICIAL 회의| 
 |**8/4(수)**|SWEXPERT 과제|
 |**8/5(목)**|[[Programmers_LV2_문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)] 구현중<br>+ [[Programmers_LV2_순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)] 구현중<br>+ 보충 |
-|**8/6(금)**||
+|**8/6(금)**|[[Programmers_LV3_네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)]|
+|**8/7(토)**|X|
+|**8/8(일)**|X|
+|**8/9(월)**|BOJ [[2504]](https://www.acmicpc.net/problem/2504) 풀이중 BOJ[[1966]](https://www.acmicpc.net/problem/1966)|
+|**8/10(화)**|[[Programmers_LV1_체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)] [[BOJ_1012_유기농배추]](https://www.acmicpc.net/problem/1012)|
+|**8/11(수)**|[[BOJ_7576_토마토]](https://www.acmicpc.net/problem/7576)|
+|**8/12(목)**|[[BOJ_2589_보물섬]](https://www.acmicpc.net/problem/2589)|
+|**8/13(금)**|X|
+|**8/14(토)**|X|
+|**8/15(일)**|X|
+|**8/16(월)**|[[Programmers_LV1_키패드](https://programmers.co.kr/learn/courses/30/lessons/67256)]|
+|**8/17(화)**|X|
+|**8/11(수)**|[[BOJ_11279_최대힙]](https://www.acmicpc.net/problem/11279)|
+|**8/12~24**|알고리즘 기초 공부 + 자격증 준비 + 졸업 + 백신접종 + Vue...|
+|**8/25(수)**|[[BOJ_21275_폰호석만]](https://www.acmicpc.net/problem/21275)|
+|**8/26(목)**||
+|**8/27(금)**||
+|**8/28(토)**||
+|**8/29(일)**||
+|**8/30(월)**||
+|**8/31(화)**||
+|**9/1(수)**||
+|**9/2(목)**||
+|**9/3(금)**||
+|**9/4(토)**||
+|**9/5(일)**||
+|**9/6(월)**||
+|**9/7(화)**||
+|**9/8(수)**||

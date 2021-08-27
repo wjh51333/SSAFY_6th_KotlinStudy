@@ -15,5 +15,16 @@
 |**8/2(월)**|Lv.2([문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.kt))||
 |**8/3(화)**|||
 |**8/4(수)**|||
-|**8/5(목)**|||
+|**8/5(목)**|Lv.2([순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)/풀이 실패) Lv.3([네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=kotlin)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/Programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.kt))||
 |**8/6(금)**|||
+|**8/7(토)**|정처기 공부||
+|**8/8(일)**|DFS([유기농 배추](https://www.acmicpc.net/problem/1012)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.kt))||
+|**8/9(월)**|정처기 공부||
+|**8/10(화)**|BFS([토마토](https://www.acmicpc.net/problem/7576)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/7576_%ED%86%A0%EB%A7%88%ED%86%A0.kt))||
+|**8/11(수)**|정처기 & 보물섬 틀잡기||
+|**8/12(목)**|BFS([보물섬](https://www.acmicpc.net/problem/2589)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/2589_%EB%B3%B4%EB%AC%BC%EC%84%AC.kt))||
+|**8/14(토)**|정처기 필합!||
+|**8/17(화)**|트리([트리](https://www.acmicpc.net/problem/4256)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/4256_%ED%8A%B8%EB%A6%AC.kt))||
+|**8/18(수)**|최대힙([최대힙](https://www.acmicpc.net/problem/11279)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/tree/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ))||
+|**8/19~8/22**|Vue에 고통받은 시간||
+|**8/23(월)**|수학-진법([폰 호석만](https://www.acmicpc.net/problem/21275)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/21275_%ED%8F%B0%20%ED%98%B8%EC%84%9D%EB%A7%8C.kt))||
