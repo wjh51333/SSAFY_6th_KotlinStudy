@@ -28,4 +28,4 @@
 |**8/18(수)**|최대힙([최대힙](https://www.acmicpc.net/problem/11279)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/tree/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ))||
 |**8/19~8/22**|Vue에 고통받은 시간||
 |**8/23(월)**|수학-진법([폰 호석만](https://www.acmicpc.net/problem/21275)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/21275_%ED%8F%B0%20%ED%98%B8%EC%84%9D%EB%A7%8C.kt))||
-|**9/1(수)**|구현([상어 초등학교](https://www.acmicpc.net/problem/21608)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/21608_%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.kt))|새로운 마음으로 다시 화이팅...!|
+|**9/1(수)**|구현([상어 초등학교](https://www.acmicpc.net/problem/21608)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/21608_%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.kt)) 투 포인터([겹치는 건 싫어](https://www.acmicpc.net/problem/20922)/[풀이](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9C%A4%EC%83%81%EC%9D%BC/BOJ/20922_%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.kt))|새로운 마음으로 다시 화이팅...!|
