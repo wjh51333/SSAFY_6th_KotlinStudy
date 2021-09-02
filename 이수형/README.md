@@ -83,7 +83,7 @@
 |**8/30(월)**||
 |**8/31(화)**|[boj20922_겹치는건싫어](https://www.acmicpc.net/problem/20922)|
 |**9/01(수)**||
-|**9/02(목)**|[boj1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)|
+|**9/02(목)**|[boj1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)<br/>[boj21608_상어초등학교](https://www.acmicpc.net/problem/21608) 실패..|
 |**9/03(금)**||
 
 
