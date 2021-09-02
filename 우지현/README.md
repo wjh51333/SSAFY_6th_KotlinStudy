@@ -131,8 +131,32 @@
 | **8/30(월)** | BOJ 20922 [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)([풀이](./BOJ/21275_겹치는%20건%20싫어.kt)) | [[BOJ 20922] 겹치는 건 싫어](https://woojeenow.tistory.com/entry/BOJ-20922-%EA%B2%B9%EC%B9%98%EB%8A%94-%EA%B1%B4-%EC%8B%AB%EC%96%B4-CKotlin?category=877463) |
 | **8/31(화)** | BOJ 1085 [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)([풀이](./BOJ/1085_직사각형에서%20탈출.kt))<br />BOJ 15829 [Hashing](https://www.acmicpc.net/problem/15829)([풀이](./BOJ/15829_Hashing.kt)) |                                                              |
 | **9/1(수)**  |                                                              |                                                              |
-| **9/2(목)**  |                                                              |                                                              |
+| **9/2(목)**  | BOJ 21608 [상어 초등학교](https://www.acmicpc.net/problem/21608)([풀이](./BOJ/21608_상어%20초등학교.kt))<br />BOJ 1915 [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)([풀이](./BOJ/1915_가장%20큰%20정사각형.kt)) |                                                              |
 | **9/3(금)**  |                                                              |                                                              |
+
+<br>
+
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> &#127804; 7주차 &#127804; (2021/09/04 ~ 2021/09/10)</strong></summary>
+<br>
+<br>
+
+
+
+
+|     날짜     | 내용 | 정리글 |
+| :----------: | :--: | :----: |
+| **9/4(토)**  |      |        |
+| **9/5(일)**  |      |        |
+| **9/6(월)**  |      |        |
+| **9/7(화)**  |      |        |
+| **9/8(수)**  |      |        |
+| **9/9(목)**  |      |        |
+| **9/10(금)** |      |        |
 
 <br>
 
