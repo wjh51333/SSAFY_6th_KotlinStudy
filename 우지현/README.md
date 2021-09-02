@@ -129,7 +129,7 @@
 | **8/28(토)** |                                                              |                                                              |
 | **8/29(일)** |                                                              |                                                              |
 | **8/30(월)** | BOJ 20922 [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)([풀이](./BOJ/21275_겹치는%20건%20싫어.kt)) | [[BOJ 20922] 겹치는 건 싫어](https://woojeenow.tistory.com/entry/BOJ-20922-%EA%B2%B9%EC%B9%98%EB%8A%94-%EA%B1%B4-%EC%8B%AB%EC%96%B4-CKotlin?category=877463) |
-| **8/31(화)** |                                                              |                                                              |
+| **8/31(화)** | BOJ 1085 [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)([풀이](./BOJ/1085_직사각형에서%20탈출.kt))<br />BOJ 15829 [Hashing](https://www.acmicpc.net/problem/15829)([풀이](./BOJ/15829_Hashing.kt)) |                                                              |
 | **9/1(수)**  |                                                              |                                                              |
 | **9/2(목)**  |                                                              |                                                              |
 | **9/3(금)**  |                                                              |                                                              |
