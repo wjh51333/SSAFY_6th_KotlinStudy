@@ -1,7 +1,5 @@
 ### 💡 Study Diary 주은  
 
-### 💡 Study Diary 주은
-
 <br />
 
 <details markdown="1">
