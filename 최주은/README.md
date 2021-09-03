@@ -39,7 +39,7 @@
 |**8/31(화)**||
 |**9/1(수)**|[[BOJ_1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)|
 |**9/2(목)**|[[BOJ_21608_상어초등학교](https://www.acmicpc.net/problem/21608) nullpoint|
-|**9/3(금)**||
+|**9/3(금)**|[[BOJ_20922_겹치는건싫어](https://www.acmicpc.net/problem/20922)|
 |**9/4(토)**||
 |**9/5(일)**||
 |**9/6(월)**||
