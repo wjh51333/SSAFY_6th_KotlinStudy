@@ -11,7 +11,7 @@
 <br>
 
 
-|     날짜     |                             내용                             |                            정리글                            |
+|     날짜     |                             내용                             |                        관련글·정리글                         |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **7/23(금)** | [Kotlin 기본 문법](https://github.com/sangilyoon-dev/SSAFY_6th_KotlinStudy/blob/main/%EC%9A%B0%EC%A7%80%ED%98%84/Kotlin%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md), 1단계 [2557](https://www.acmicpc.net/problem/2557), 2단계 [2884](https://www.acmicpc.net/problem/2884), 4단계 [10952](https://www.acmicpc.net/problem/10952), 5단계 [2577](https://www.acmicpc.net/problem/2577) | [Kotlin 기본 다지기](https://woojeenow.tistory.com/entry/Kotlin-%EA%B8%B0%EB%B3%B8-%EB%8B%A4%EC%A7%80%EA%B8%B0) |
 | **7/24(토)** | [Kotlin 입출력](https://woojeenow.tistory.com/entry/Kotlin-%EC%9E%85%EC%B6%9C%EB%A0%A5), 3단계 [2739](https://www.acmicpc.net/problem/2739), 6단계 [4673](https://www.acmicpc.net/problem/4673), 7단계 [2908](https://www.acmicpc.net/problem/2908) | [Kotlin 기본 다지기 2](https://woojeenow.tistory.com/entry/Kotlin-%EA%B8%B0%EB%B3%B8-%EB%8B%A4%EC%A7%80%EA%B8%B0-2?category=879651) |
@@ -34,7 +34,7 @@
 <br>
 
 
-|     날짜     |                             내용                             |                            정리글                            |
+|     날짜     |                             내용                             |                        관련글·정리글                         |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **7/31(토)** | BOJ 1260 [DFS와 BFS](https://www.acmicpc.net/problem/1260)([풀이](./BOJ/1260_DFS와%20BFS.kt)), BOJ 1697 [숨바꼭질](https://www.acmicpc.net/problem/1697)([풀이](./BOJ/1697_숨바꼭질.kt)) |                                                              |
 | **8/1(일)**  |                                                              |                                                              |
@@ -56,7 +56,7 @@
 <br>
 
 
-|     날짜     |                             내용                             |                            정리글                            |
+|     날짜     |                             내용                             |                        관련글·정리글                         |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **8/7(토)**  | BOJ 7576 [토마토](https://www.acmicpc.net/problem/7576)([풀이](./BOJ/7576_토마토.kt))<br />BOJ 1012 [유기농 배추](https://www.acmicpc.net/problem/1012)([풀이](./BOJ/1012_유기농%20배추.kt)) | [[BOJ 7576] 토마토](https://woojeenow.tistory.com/entry/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0-ckotlin), [[BOJ 1012] 유기농 배추](https://woojeenow.tistory.com/entry/BOJ-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94-ckotlin) |
 | **8/8(일)**  | BOJ 2589 [보물섬](https://www.acmicpc.net/problem/2589)([풀이](./BOJ/2589_보물섬.kt)) | [[BOJ 2589] 보물섬](https://woojeenow.tistory.com/entry/BOJ-2589-%EB%B3%B4%EB%AC%BC%EC%84%AC-ckotlin) |
@@ -78,7 +78,7 @@
 <br>
 
 
-|     날짜     |                             내용                             |                            정리글                            |
+|     날짜     |                             내용                             |                        관련글·정리글                         |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **8/14(토)** | BOJ 2870 [수학숙제](https://www.acmicpc.net/problem/2870)([풀이](./BOJ/2870_수학숙제.kt))<br />BOJ 11931 [수 정렬하기 4](https://www.acmicpc.net/problem/11931)([풀이](./BOJ/11931_수%20정렬하기%204.kt)) | [Kotlin 정규식](https://jeongupark-study-house.tistory.com/144) |
 | **8/15(일)** | BOJ 11279 [최대 힙](https://www.acmicpc.net/problem/11279)([풀이](./BOJ/11279_최대%20힙.kt)) |                                                              |
@@ -101,15 +101,15 @@
 
 
 
-|     날짜     |                             내용                             | 정리글 |
-| :----------: | :----------------------------------------------------------: | :----: |
-| **8/21(토)** | BOJ 11654 [아스키 코드](https://www.acmicpc.net/problem/11654)([풀이](./BOJ/11654_아스키%20코드.kt))<br />BOJ 2675 [문자열 반복](https://www.acmicpc.net/problem/2675)([풀이](./BOJ/2675_문자열%20반복.kt))<br />BOJ 2920 [음계](https://www.acmicpc.net/problem/2920)([풀이](./BOJ/2920_음계.kt))<br />BOJ 8958 [OX퀴즈](https://www.acmicpc.net/problem/8958)([풀이](./BOJ/8958_OX퀴즈.kt)) |        |
-| **8/22(일)** | BOJ 1152 [단어의 개수](https://www.acmicpc.net/problem/1152)([풀이](./BOJ/1152_단어의%20개수.kt))<br />BOJ 1546 [평균](https://www.acmicpc.net/problem/1546)([풀이](./BOJ/1546_평균.kt))<br />BOJ 2475 [검증수](https://www.acmicpc.net/problem/2475)([풀이](./BOJ/2475_검증수.kt))<br />BOJ 3052 [나머지](https://www.acmicpc.net/problem/3052)([풀이](./BOJ/3052_나머지.kt)) |        |
-| **8/23(월)** | BOJ 11050 [이항 계수 1](https://www.acmicpc.net/problem/11050)([풀이](./BOJ/11050_이항%20계수%201.kt))<br />BOJ 10250 [ACM 호텔](https://www.acmicpc.net/problem/10250)([풀이](./BOJ/10250_ACM%20호텔.kt))<br />BOJ 4153 [직각삼각형](https://www.acmicpc.net/problem/4153)([풀이](./BOJ/4153_직각삼각형.kt))<br />BOJ 1259 [팰린드롬수](https://www.acmicpc.net/problem/1259)([풀이](./BOJ/1259_팰린드롬수.kt)) |        |
-| **8/24(화)** |                                                              |        |
-| **8/25(수)** |                                                              |        |
-| **8/26(목)** | BOJ 21317 [징검다리 건너기](https://www.acmicpc.net/problem/21317)([풀이](./BOJ/21317_징검다리%20건너기.kt))<br />BOJ 19598 [최소 회의실 개수](https://www.acmicpc.net/problem/19598)([풀이](./BOJ/19598_최소%20회의실%20개수.kt)) |        |
-| **8/27(금)** | BOJ 21275 [폰 호석만](https://www.acmicpc.net/problem/21275)([풀이](./BOJ/21275_폰%20호석만.kt)) |        |
+|     날짜     |                             내용                             | 관련글·정리글 |
+| :----------: | :----------------------------------------------------------: | :-----------: |
+| **8/21(토)** | BOJ 11654 [아스키 코드](https://www.acmicpc.net/problem/11654)([풀이](./BOJ/11654_아스키%20코드.kt))<br />BOJ 2675 [문자열 반복](https://www.acmicpc.net/problem/2675)([풀이](./BOJ/2675_문자열%20반복.kt))<br />BOJ 2920 [음계](https://www.acmicpc.net/problem/2920)([풀이](./BOJ/2920_음계.kt))<br />BOJ 8958 [OX퀴즈](https://www.acmicpc.net/problem/8958)([풀이](./BOJ/8958_OX퀴즈.kt)) |               |
+| **8/22(일)** | BOJ 1152 [단어의 개수](https://www.acmicpc.net/problem/1152)([풀이](./BOJ/1152_단어의%20개수.kt))<br />BOJ 1546 [평균](https://www.acmicpc.net/problem/1546)([풀이](./BOJ/1546_평균.kt))<br />BOJ 2475 [검증수](https://www.acmicpc.net/problem/2475)([풀이](./BOJ/2475_검증수.kt))<br />BOJ 3052 [나머지](https://www.acmicpc.net/problem/3052)([풀이](./BOJ/3052_나머지.kt)) |               |
+| **8/23(월)** | BOJ 11050 [이항 계수 1](https://www.acmicpc.net/problem/11050)([풀이](./BOJ/11050_이항%20계수%201.kt))<br />BOJ 10250 [ACM 호텔](https://www.acmicpc.net/problem/10250)([풀이](./BOJ/10250_ACM%20호텔.kt))<br />BOJ 4153 [직각삼각형](https://www.acmicpc.net/problem/4153)([풀이](./BOJ/4153_직각삼각형.kt))<br />BOJ 1259 [팰린드롬수](https://www.acmicpc.net/problem/1259)([풀이](./BOJ/1259_팰린드롬수.kt)) |               |
+| **8/24(화)** |                                                              |               |
+| **8/25(수)** |                                                              |               |
+| **8/26(목)** | BOJ 21317 [징검다리 건너기](https://www.acmicpc.net/problem/21317)([풀이](./BOJ/21317_징검다리%20건너기.kt))<br />BOJ 19598 [최소 회의실 개수](https://www.acmicpc.net/problem/19598)([풀이](./BOJ/19598_최소%20회의실%20개수.kt)) |               |
+| **8/27(금)** | BOJ 21275 [폰 호석만](https://www.acmicpc.net/problem/21275)([풀이](./BOJ/21275_폰%20호석만.kt)) |               |
 
 <br>
 
@@ -124,15 +124,15 @@
 
 
 
-|     날짜     |                             내용                             |                            정리글                            |
+|     날짜     |                             내용                             |                        관련글·정리글                         |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **8/28(토)** |                                                              |                                                              |
 | **8/29(일)** |                                                              |                                                              |
 | **8/30(월)** | BOJ 20922 [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)([풀이](./BOJ/21275_겹치는%20건%20싫어.kt)) | [[BOJ 20922] 겹치는 건 싫어](https://woojeenow.tistory.com/entry/BOJ-20922-%EA%B2%B9%EC%B9%98%EB%8A%94-%EA%B1%B4-%EC%8B%AB%EC%96%B4-CKotlin?category=877463) |
 | **8/31(화)** | BOJ 1085 [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)([풀이](./BOJ/1085_직사각형에서%20탈출.kt))<br />BOJ 15829 [Hashing](https://www.acmicpc.net/problem/15829)([풀이](./BOJ/15829_Hashing.kt)) |                                                              |
 | **9/1(수)**  |                                                              |                                                              |
-| **9/2(목)**  | BOJ 21608 [상어 초등학교](https://www.acmicpc.net/problem/21608)([풀이](./BOJ/21608_상어%20초등학교.kt))<br />BOJ 1915 [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)([풀이](./BOJ/1915_가장%20큰%20정사각형.kt)) |                                                              |
-| **9/3(금)**  |                                                              |                                                              |
+| **9/2(목)**  | BOJ 21608 [상어 초등학교](https://www.acmicpc.net/problem/21608)([풀이](./BOJ/21608_상어%20초등학교.kt))<br />BOJ 1915 [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)([풀이](./BOJ/1915_가장%20큰%20정사각형.kt)) | [[BOJ 21608] 상어 초등학교](https://woojeenow.tistory.com/entry/BOJ-21608-%EC%83%81%EC%96%B4-%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90-Kotlin?category=877463) |
+| **9/3(금)**  | 프로그래머스 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)([풀이](./Programmers/신규%20아이디%20추천.kt)) | [정규표현식(Regex) 정리](https://hamait.tistory.com/342)<br />[정규식 테스트 사이트](https://regexr.com/) |
 
 <br>
 
@@ -148,15 +148,15 @@
 
 
 
-|     날짜     | 내용 | 정리글 |
-| :----------: | :--: | :----: |
-| **9/4(토)**  |      |        |
-| **9/5(일)**  |      |        |
-| **9/6(월)**  |      |        |
-| **9/7(화)**  |      |        |
-| **9/8(수)**  |      |        |
-| **9/9(목)**  |      |        |
-| **9/10(금)** |      |        |
+|     날짜     | 내용 | 관련글·정리글 |
+| :----------: | :--: | :-----------: |
+| **9/4(토)**  |      |               |
+| **9/5(일)**  |      |               |
+| **9/6(월)**  |      |               |
+| **9/7(화)**  |      |               |
+| **9/8(수)**  |      |               |
+| **9/9(목)**  |      |               |
+| **9/10(금)** |      |               |
 
 <br>
 

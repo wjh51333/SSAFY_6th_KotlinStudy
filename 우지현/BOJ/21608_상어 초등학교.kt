@@ -8,10 +8,10 @@ private val dy = arrayOf(0, -1, 1, 0)
 
 fun main() = with(System.`in`.bufferedReader()) {
     n = readLine().toInt()
-    num = IntArray(n * n)
-    info = Array<List<Int>>(n * n + 1) { listOf<Int>() }
-    student = Array(n) { IntArray(n) }
-    empty = Array(n) { IntArray(n) }
+    num = IntArray(n * n) // 학생 순서
+    info = Array<List<Int>>(n * n + 1) { listOf<Int>() } // 각 학생이 좋아하는 학생 정보
+    student = Array(n) { IntArray(n) } // 자리
+    empty = Array(n) { IntArray(n) } // 비어있는 칸
 
     for (i in 0 until n * n) {
         val input = readLine().split(" ").map { it.toInt() }
@@ -21,7 +21,7 @@ fun main() = with(System.`in`.bufferedReader()) {
     init()
 
     for (i in num.indices) {
-        var seat = getMax(num[i])
+        var seat = findSeat(num[i])
 
         student[seat.first][seat.second] = num[i]
         empty[seat.first][seat.second] = -1
@@ -40,13 +40,14 @@ private fun init() {
     for (i in empty.indices) {
         for (j in empty[i].indices) {
             empty[i][j] = 4;
+            // 벽이 있는 경우
             if (i == 0 || i == n - 1) empty[i][j]--
             if (j == 0 || j == n - 1) empty[i][j]--
         }
     }
 }
 
-private fun getMax(now : Int) : Pair<Int, Int> {
+private fun findSeat(now : Int) : Pair<Int, Int> {
     var max = 0
     var list = mutableListOf<Pair<Int, Int>>()
     for (i in empty.indices) {
@@ -86,6 +87,7 @@ private fun satisfied() : Int {
                 val nx = i + dx[k]
                 val ny = j + dy[k]
                 if (!isNotWall(nx, ny)) continue
+                // 해당 학생이 좋아하는 학생인 경우 cnt 증가
                 if (info[student[i][j]].contains(student[nx][ny])) cnt++
             }
             if (cnt > 1) sum += Math.pow(10.toDouble(), (cnt - 1).toDouble()).toInt()
