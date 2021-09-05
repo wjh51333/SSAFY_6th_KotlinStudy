@@ -98,7 +98,7 @@
 |날짜|내용|
 |------:|:---:|
 |**9/04(토)**|Programmers[[숫자문자열과영단어]](https://programmers.co.kr/learn/courses/30/lessons/81301)<br/>Programmers[[기능개발]](https://programmers.co.kr/learn/courses/30/lessons/42586)||
-|**9/05(일)**||
+|**9/05(일)**|[boj15686_치킨배달](https://www.acmicpc.net/problem/15686)([Kotlin](./BOJ/boj15686_치킨배달.kt))|
 |**9/06(월)**||
 |**9/07(화)**||
 |**9/08(수)**||
