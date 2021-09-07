@@ -100,7 +100,7 @@
 |**9/04(토)**|Programmers[[숫자문자열과영단어]](https://programmers.co.kr/learn/courses/30/lessons/81301)([Kotlin](./Programmers/pg숫자문자열.kt))<br/>Programmers[[기능개발]](https://programmers.co.kr/learn/courses/30/lessons/42586)([Kotlin](./Programmers/pg기능개발.kt))|
 |**9/05(일)**|[boj15686_치킨배달](https://www.acmicpc.net/problem/15686)([Kotlin](./BOJ/boj15686_치킨배달.kt))|
 |**9/06(월)**||
-|**9/07(화)**||
+|**9/07(화)**|[boj16234_인구이동](https://www.acmicpc.net/problem/16234)([Kotlin](./BOJ/boj16234_인구이동.kt))|
 |**9/08(수)**||
 |**9/09(목)**||
 |**9/10(금)**||
