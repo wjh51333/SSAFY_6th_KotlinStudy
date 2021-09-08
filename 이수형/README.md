@@ -101,7 +101,7 @@
 |**9/05(일)**|[boj15686_치킨배달](https://www.acmicpc.net/problem/15686)([Kotlin](./BOJ/boj15686_치킨배달.kt))|
 |**9/06(월)**||
 |**9/07(화)**|[boj16234_인구이동](https://www.acmicpc.net/problem/16234)([Kotlin](./BOJ/boj16234_인구이동.kt))|
-|**9/08(수)**||
+|**9/08(수)**|[boj13023_ABCDE](https://www.acmicpc.net/problem/13023)([Kotlin](./BOJ/boj13023_ABCDE.kt))|
 |**9/09(목)**||
 |**9/10(금)**||
 
