@@ -110,7 +110,7 @@
 |**9/5(일)**||
 |**9/6(월)**||
 |**9/7(화)**|[[BOJ_15686_치킨배달](https://www.acmicpc.net/problem/15686)]|
-|**9/8(수)**|[[BOJ_16234_인구이동](https://www.acmicpc.net/problem/16234)]|
+|**9/8(수)**|[[BOJ_16234_인구이동](https://www.acmicpc.net/problem/16234)]<br>[[BOJ_13023_ABCDE](https://www.acmicpc.net/problem/13023)]|
 |**9/9(목)**||
 
 <br>
