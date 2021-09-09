@@ -262,6 +262,31 @@ until
   println(ints)      // 1, 2, ..., 8, 9
 }
 ```
+
+#### 🎈 Kotlin for문 범위의 다양한 표현
+```kotlin
+fun forLoop(){
+    println("[for] 반복문")
+    val items = listOf("apple", "banana", "kiwi")
+    
+    // A
+    for(item in items) {
+        println(item)
+    }
+    // B
+    for(index in 0..(items.size-1)) {
+        println("이건 item at $index is ${items[index]}")
+    }
+    // C
+    for(index in 0 until items.size) {
+        println("이건 item at $index is ${items[index]}")
+    }
+    // D
+    for(index in items.indices) { //indices -> 0..2
+        println("item at $index is ${items[index]}")
+    }
+}
+```
    
 #### 🎈 Input
  1. java의 Input들 사용
@@ -276,3 +301,16 @@ until
    >```
    
 *   *   *
+
+#### 🎈 chunked
+```kotlin
+s:String.chunked(size:Int)    // return List<String>
+```
+size는 자를 크기이다.
+ex. size가 2 이면, 2문자씩 문자열을 자르겠다는 의미
+<br />
+Pair   
+
+```kotlin
+Pair<T, T> = Pair(value: T, value: T)
+```
