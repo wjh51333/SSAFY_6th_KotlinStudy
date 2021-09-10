@@ -110,7 +110,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> Kotiln (2021/09/10 ~ 2021/09/17)</strong></summary>
+<summary><strong> Kotiln (2021/09/11 ~ 2021/09/17)</strong></summary>
 <br>
 <br>
 
