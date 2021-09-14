@@ -119,7 +119,7 @@
 |**9/11(토)**||
 |**9/12(일)**||
 |**9/13(월)**||
-|**9/14(화)**|[boj2580_스도쿠](https://www.acmicpc.net/problem/2580)([Kotlin](./BOJ/boj2580_스도쿠.kt))|
+|**9/14(화)**|[boj2580_스도쿠](https://www.acmicpc.net/problem/2580)([Kotlin](./BOJ/boj2580_스도쿠.kt))<br/>[boj2374_같은수로만들기](https://www.acmicpc.net/problem/2374)([Kotlin](./BOJ/boj2374_같은수로만들기.kt))|
 |**9/15(수)**||
 |**9/16(목)**||
 |**9/17(금)**||
