@@ -17,6 +17,16 @@ fun dfs(row: Int, col: Int) {
             board.forEach { it.forEach { print("$it ") };println() }
             cnt++
         }
+        //윗부분을 이렇게 하면 더빠르고 메모리가 적음 도대체왜????
+        //생각 잘못해서 굳이 필요없는 코드인데...?
+        //여러번 실행시켜봐도 이게 무조건 시간빠르고 메모리가 적음
+//        if (cnt == 0) {
+//            board.forEach { it.forEach { if (it == 0) cnt++ } }
+//            if (cnt == 0) {
+//                board.forEach { it.forEach { print("$it ") };println() }
+//                cnt++
+//            }
+//        }
         return
     }
     //0인 지점 찾으면 백트래킹
