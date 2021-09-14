@@ -10,8 +10,8 @@ fun main() {
         for (j in 0 until 9) {
             if (sdoku[i][j] != 0) {
                 c[i][sdoku[i][j]] = true
-                c[j][sdoku[i][j]] = true
-                c[square(i, j)][sdoku[i][j]] = true
+                c2[j][sdoku[i][j]] = true
+                c3[square(i, j)][sdoku[i][j]] = true
             }
         }
     }
