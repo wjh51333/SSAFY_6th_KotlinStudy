@@ -176,7 +176,7 @@
 | **9/13(월)** | BOJ 2580 [스도쿠](https://www.acmicpc.net/problem/2580) 푸는 중,, |               |
 | **9/14(화)** | BOJ 2580 [스도쿠](https://www.acmicpc.net/problem/2580)([풀이](./BOJ/2580_스도쿠.kt))<br />BOJ 2374 [같은 수로 만들기](https://www.acmicpc.net/problem/2374)([풀이](./BOJ/2374_같은%20수로%20만들기.kt)) |               |
 | **9/15(수)** |                                                              |               |
-| **9/16(목)** |                                                              |               |
+| **9/16(목)** | BOJ 13397 [구간 나누기 2](https://www.acmicpc.net/problem/13397)([풀이](./BOJ/13397_구간%20나누기%202.kt)) |               |
 | **9/17(금)** |                                                              |               |
 
 <br>
