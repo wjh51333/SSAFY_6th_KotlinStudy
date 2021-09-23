@@ -140,7 +140,7 @@
 |**9/20(월)**|[boj7662_이중우선순위큐](https://www.acmicpc.net/problem/7662)([Kotlin](./BOJ/boj7662_이중우선순위큐.kt))|
 |**9/21(화)**||
 |**9/22(수)**||
-|**9/23(목)**||
+|**9/23(목)**|[boj1918_후위표기식](https://www.acmicpc.net/problem/1918)([Kotlin](./BOJ/boj1918_후위표기식.kt))|
 |**9/24(금)**||
 
 <br>
