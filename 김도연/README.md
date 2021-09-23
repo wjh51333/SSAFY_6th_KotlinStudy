@@ -203,3 +203,51 @@
   |[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|투 포인터|
   |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|DP|
 </details>
+
+<details>
+<summary>7th study</summary>
+📅기간 : 2021-09-06 ~ 2021-09-11   
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[](https://www.acmicpc.net/problem/)|  |X|
+  |[](https://www.acmicpc.net/problem/)|  |X|
+  |[](https://www.acmicpc.net/problem/)|  |X|
+</details>
+
+<details>
+<summary>8th study</summary>
+📅기간 : 2021-09-13 ~ 2021-09-17
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[구간 나누기 2](https://www.acmicpc.net/problem/13397)|이분 탐색|O|
+  |[스도쿠](https://www.acmicpc.net/problem/2580)|백트래킹|O|
+  |[같은 수로 만들기](https://www.acmicpc.net/problem/2374)|분할 정복|X|
+</details>
+
+<details>
+<summary>9th study</summary>
+📅기간 : 2021-09-20 ~ 2021-09- 24
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[부분 문자열](https://www.acmicpc.net/problem/16916)|문자열, kmp|X|
+  |[후위 표기식](https://www.acmicpc.net/problem/1918)|스택|O|
+  |[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|큐, 맵|O|
+</details>
