@@ -155,7 +155,7 @@
 
 
 <details markdown="1">
-<summary><strong> 9주차 (2021/09/24 ~ 2021/09/30)</strong></summary>
+<summary><strong> 9주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
