@@ -183,7 +183,7 @@
 |**10/2(토)**|[[BOJ_21317_징검다리건너기](https://www.acmicpc.net/problem/21317)]||
 |**10/3(일)**|[[BOJ_1715_카드정렬하기](https://www.acmicpc.net/problem/1715)]||
 |**10/4(월)**|[[BOJ_10942_팰린드롬?](https://www.acmicpc.net/problem/10942)]||
-|**10/5(화)**|||
+|**10/5(화)**|[[BOJ_4256_트리](https://www.acmicpc.net/problem/4256)]||
 |**10/6(수)**|||
 |**10/7(목)**|||
 
