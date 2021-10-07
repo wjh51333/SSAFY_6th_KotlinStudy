@@ -179,7 +179,7 @@
 |**10/05(화)**||
 |**10/06(수)**|[boj10942_팰린드롬](https://www.acmicpc.net/problem/10942)([Kotlin](./BOJ/boj10942_팰린드롬.kt))|
 |**10/07(목)**||
-|**10/08(금)**||
+|**10/08(금)**|[boj1715_카드정렬하기](https://www.acmicpc.net/problem/1715)([Kotlin](./BOJ/boj1715_카드정렬하기.kt))|
 
 <br>
 
