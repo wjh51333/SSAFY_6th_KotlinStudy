@@ -173,7 +173,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/10/1 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차 (2021/10/01 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
@@ -183,8 +183,8 @@
 |**10/2(토)**|[[BOJ_21317_징검다리건너기](https://www.acmicpc.net/problem/21317)]||
 |**10/3(일)**|[[BOJ_1715_카드정렬하기](https://www.acmicpc.net/problem/1715)]||
 |**10/4(월)**|[[BOJ_10942_팰린드롬?](https://www.acmicpc.net/problem/10942)]||
-|**10/5(화)**|||
-|**10/6(수)**|||
+|**10/5(화)**|[[BOJ_4256_트리](https://www.acmicpc.net/problem/4256)]||
+|**10/6(수)**|[[BOJ_1874_스택수열](https://www.acmicpc.net/problem/1874)]||
 |**10/7(목)**|||
 
 <br>
