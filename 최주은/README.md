@@ -173,7 +173,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/10/1 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차 (2021/10/01 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
