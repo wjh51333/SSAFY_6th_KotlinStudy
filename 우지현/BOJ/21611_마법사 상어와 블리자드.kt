@@ -14,7 +14,8 @@ private var dy2 = arrayOf(-1, 0, 1, 0)
 private lateinit var points : MutableList<Pair<Int, Int>>
 
 private var beads = arrayOf(0, 0, 0, 0)
-private var group = mutableListOf<Pair<Int, Int>>()
+private var group = mutableListOf<Pair<Int, Int>>() // first가 구슬 개수 second가 구슬 번호
+private var size = 0
 
 fun main() = with(System.`in`.bufferedReader()) {
     var input = readLine().split(" ").map { it.toInt() }
@@ -26,6 +27,7 @@ fun main() = with(System.`in`.bufferedReader()) {
         input = readLine().split(" ").map { it.toInt() }
         for (j in 1..n) {
             map[i][j] = input[j - 1]
+            if (map[i][j] != 0) size++
         }
     }
     getPoints()
@@ -36,9 +38,6 @@ fun main() = with(System.`in`.bufferedReader()) {
 
         // 블리자드 마법 시전 -> 구슬 파괴
         blizzard(d, s)
-
-        // 구슬 이동
-//        move(1)
 
         // 구슬 폭발
         blowup()
@@ -56,7 +55,7 @@ private fun getPoints()
     var size = 2
     var (x, y) = shark
     var nx = shark.first + dx2[d]
-    var ny= shark.second + dy2[d++]
+    var ny= shark.first + dy2[d++]
     points = mutableListOf()
 
     while (!isWall(nx, ny) && size <= n) {
@@ -84,10 +83,10 @@ private val isWall = { x : Int, y : Int ->
 
 private fun blizzard(d : Int, s : Int) {
     var x = shark.first + dx[d]
-    var y = shark.second + dy[d]
+    var y = shark.first + dy[d]
 
     for (i in 0 until s) {
-        if (isWall(x, y))
+        if (isWall(x, y) || map[x][y] == 0)
             break
 
         map[x][y] = 0
@@ -97,55 +96,62 @@ private fun blizzard(d : Int, s : Int) {
 }
 
 private fun blowup() {
-    val st = Stack<Pair<Int, MutableList<Pair<Int, Int>>>>()
-    val zero = ArrayDeque<Pair<Int, Int>>()
-    st.add(map[points[0].first][points[0].second] to mutableListOf(points[0]))
+    val list = mutableListOf<Int>()
+    for (idx in 0 until size) {
+        val (x, y) = points[idx]
+        if (map[x][y] != 0)
+            list.add(map[x][y])
+    }
 
-    var idx = 1
-    while (idx < points.size) {
-        var (x, y) = points[idx]
-        when (map[x][y]) {
-            st.peek().first -> { // 연속하는 구슬은 추가
-                if (zero.isNotEmpty()) {
-                    val z = zero.removeFirst()
-                    map[z.first][z.second] = map[x][y]
-                    map[x][y] = 0
-                    zero.add(x to y)
-                    x = z.first
-                    y = z.second
-                }
-                st.peek().second.add(x to y)
+    val st = Stack<Pair<Int, Int>>()
+
+    var idx = 0
+    while (idx < list.size) {
+        if (st.isEmpty() || st.peek().first != list[idx]) {
+            if (st.isNotEmpty() && st.peek().second >= 4) {
+                beads[st.peek().first] += st.peek().second
+                st.pop()
+            }
+
+            if (st.isEmpty() || st.peek().first != list[idx]) {
+                st.add(list[idx] to 1)
                 idx++
             }
-            else -> {
-                if (st.peek().second.size >= 4) { // 다른 구슬이면 폭발
-                    beads[st.peek().first] += st.peek().second.size
-                    st.pop().second.forEach {
-                        zero.addFirst(it)
-                        map[it.first][it.second] = 0
-                    }
-                }
-
-                if (map[x][y] == 0) {
-                    zero.add(x to y)
-                    idx++
-                }
-            }
+        } else {
+            val now = st.pop()
+            st.add(now.first to now.second + 1)
+            idx++
         }
     }
 
-    group.clear()
-    while (st.isNotEmpty()) {
-        val (num, list) = st.pop()
-        group.add(list.size to num)
+    if (st.isNotEmpty()) {
+        if (st.peek().second >= 4) {
+            beads[st.peek().first] += st.peek().second
+            st.pop()
+        }
+
+        while (st.isNotEmpty()) {
+            val tmp = st.pop()
+            group.add(tmp.second to tmp.first)
+        }
+        group.reverse()
     }
-    group.reversed()
 }
 
 private fun change() {
+    val list = group.flatMap { it.toList() }
     var idx = 0
-    group.flatMap { it.toList() }.forEach {
-        val (x, y) = points[idx++]
-        map[x][y] = it
+
+    map.forEach { it.fill(0) }
+    size = if (list.size > points.size) points.size else list.size
+
+    if (list.isNotEmpty()) {
+        for (i in points.indices) {
+            val (x, y) = points[i]
+            map[x][y] = list[idx++]
+            if (idx == list.size)
+                break
+        }
     }
+    group.clear()
 }
