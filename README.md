@@ -1,5 +1,4 @@
-# 📘 SSAFY Kotlin Study
-🐇 Let's study Kotlin together!  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=320&section=header&text=Kotlism&fontSize=90&fontAlignY=35&desc=🐇%20Let's%20study%20Kotlin%20together!&descAlignY=60)
  
   
 ## ✔ **CHECK LIST**  
