@@ -280,3 +280,48 @@
   |[카드 정렬하기](https://www.acmicpc.net/problem/1715)|그리드, 우선순위큐|O|
   |[팰린드롬?](https://www.acmicpc.net/problem/10942)|DP|O|
 </details>
+
+<summary>12th study</summary>
+📅기간 : 2021-10-09 ~ 2021-10- 15
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[부분합](https://www.acmicpc.net/problem/1806)|투포인터|O|
+  |[모양 만들기](https://www.acmicpc.net/problem/16932)|그래프 탐색|O|
+  |[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|구현|X|
+</details>
+
+<summary>14th study</summary>
+📅기간 : 2021-10-23 ~ 2021-10- 28
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[테트로미노](https://www.acmicpc.net/problem/14500)|완전탐색|X|
+  |[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|시뮬레이션|X|
+  |[휴게소 세우기](https://www.acmicpc.net/problem/1477)|이분탐색|X|
+</details>
+
+<summary>15th study</summary>
+📅기간 : 2021-10-29 ~ 2021-11- 04
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[색종이 붙이기](https://www.acmicpc.net/problem/21317)|백트래킹|X|
+  |[박스 채우기](https://www.acmicpc.net/problem/1715)|분할정복|X|
+  |[잠수함식별](https://www.acmicpc.net/problem/10942)|문자열|O|
+</details>
