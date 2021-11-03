@@ -1,5 +1,4 @@
-# 📘 SSAFY Kotlin Study
-🐇 Let's study Kotlin together!  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=320&section=header&text=Kotlism&fontSize=90&fontAlignY=35&desc=🐇%20Let's%20study%20Kotlin%20together!&descAlignY=60)
  
   
 ## ✔ **CHECK LIST**  
@@ -12,11 +11,6 @@
 ## ✔ **RULE**  
  - 매주 금요일 저녁 18시 30분 화상미팅  
  - 매주 과제 문제들 풀어보고 발표하기  
- - 베스트 코드 선정
 
-## 👍 **BEST CODE STATISTICS**  
-- 김도연 :  
-- 우지현 :  
-- 윤상일 :  
-- 이수형 :  
-- 최주은 :  ■
+## ⭐ **Congrats**
+ - 윤상일 (Yoon Sang il) 당근마켓 입사
