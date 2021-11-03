@@ -1,7 +1,7 @@
 private var n = 0
 private var k = 0
-private var energy = arrayOf<IntArray>()
-private var dp = arrayOf<IntArray>()
+private lateinit var energy : Array<IntArray>
+private lateinit var dp : Array<IntArray>
 
 fun main() = with(System.`in`.bufferedReader()) {
     n = readLine().toInt()
@@ -30,4 +30,3 @@ private fun go(now : Int, flag : Int) {
         go(now + 3, 1)
     }
 }
-
