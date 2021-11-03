@@ -321,7 +321,7 @@
 📃숙제
   |문제|문제 유형|해결|
   |:----:|:----------|:----:|
-  |[색종이 붙이기](https://www.acmicpc.net/problem/21317)|백트래킹|X|
+  |[색종이 붙이기](https://www.acmicpc.net/problem/21317)|백트래킹|O|
   |[박스 채우기](https://www.acmicpc.net/problem/1715)|분할정복|X|
   |[잠수함식별](https://www.acmicpc.net/problem/10942)|문자열|O|
 </details>
