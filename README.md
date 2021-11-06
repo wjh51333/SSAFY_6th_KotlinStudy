@@ -3,7 +3,7 @@
  
  ## 👋 **Member**
 
-<table align="center">
+<table align="center" style="font-weight : bold">
     <tr>
         <td align="center">
             <a href="https://github.com/DyeonKim">                 
@@ -32,11 +32,11 @@
         </td>
     </tr>
     <tr>
-        <td align="center">**김도연**</td>
-        <td align="center">**우지현**</td>
-        <td align="center">**🎉 윤상일**</td>
-        <td align="center">**이수형**</td>
-        <td align="center">**최주은**</td>
+        <td align="center">김도연</td>
+        <td align="center">우지현</td>
+        <td align="center">🎉 윤상일</td>
+        <td align="center">이수형</td>
+        <td align="center">최주은</td>
     </tr>
 </table>
   
