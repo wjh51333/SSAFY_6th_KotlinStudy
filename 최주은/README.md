@@ -1,4 +1,4 @@
-### 💡 Study Diary 주은  
+## 💡 Study Diary 주은  
 
 ### Updates
 - 기존의 Summary는 어떤 알고리즘이 약한지 알 수 없었으므로 구조를 변경하였습니다.
@@ -9,6 +9,8 @@
 - Git 제외한 기술 블로그 또는 서술 내용 작성하기
 - 내용 요약해서 남들에게 말 할 수 있도록 정리하기
 
+
+### Summary ▼
 <br />
 
 <details markdown="1">
