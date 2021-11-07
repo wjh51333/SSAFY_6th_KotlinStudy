@@ -60,7 +60,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 3~4주차 (2021/08/13 ~ 2021/08/26)</strong></summary>
+<summary><strong> 4~5주차 (2021/08/13 ~ 2021/08/26)</strong></summary>
 <br>
 <br>
 
@@ -81,7 +81,7 @@
 
 
 <details markdown="1">
-<summary><strong> 5주차 (2021/08/27 ~ 2021/09/02)</strong></summary>
+<summary><strong> 6주차 (2021/08/27 ~ 2021/09/02)</strong></summary>
 <br>
 <br>
 
@@ -99,7 +99,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 6주차 (2021/09/03 ~ 2021/09/09)</strong></summary>
+<summary><strong> 7주차 (2021/09/03 ~ 2021/09/09)</strong></summary>
 <br>
 <br>
 
@@ -118,7 +118,7 @@
 
 
 <details markdown="1">
-<summary><strong> 7주차 (2021/09/10 ~ 2021/09/16)</strong></summary>
+<summary><strong> 8주차 (2021/09/10 ~ 2021/09/16)</strong></summary>
 <br>
 <br>
 
@@ -136,7 +136,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 8주차 (2021/09/17 ~ 2021/09/23)</strong></summary>
+<summary><strong> 9주차 (2021/09/17 ~ 2021/09/23)</strong></summary>
 <br>
 <br>
 
@@ -155,7 +155,7 @@
 
 
 <details markdown="1">
-<summary><strong> 9주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
@@ -173,7 +173,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/10/01 ~ 2021/10/07)</strong></summary> 
+<summary><strong> 11주차 (2021/10/01 ~ 2021/10/07)</strong></summary> 
 <br>
 <br>
 
@@ -191,7 +191,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 11주차 (2021/10/08 ~ 2021/10/14)</strong></summary> 
+<summary><strong> 12주차 (2021/10/08 ~ 2021/10/14)</strong></summary> 
 <br>
 <br>
 
@@ -209,7 +209,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 12주차 (2021/10/15 ~ 2021/10/21)</strong></summary> 
+<summary><strong> 13주차 (2021/10/15 ~ 2021/10/21)</strong></summary> 
 <br>
 <br>
 
@@ -227,7 +227,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 13주차 (2021/10/22 ~ 2021/10/28)</strong></summary> 
+<summary><strong> 14주차 (2021/10/22 ~ 2021/10/28)</strong></summary> 
 <br>
 <br>
 
@@ -240,6 +240,38 @@
 |**10/26(화)**|[[BOJ_14500_테트로미노](https://www.acmicpc.net/problem/14500)]<br>[[BOJ_1477_휴게소세우기_포기](https://www.acmicpc.net/problem/1477)]||
 |**10/27(수)**|[[BOJ_17144_미세먼지안녕](https://www.acmicpc.net/problem/17144)]||
 |**10/28(목)**|||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 15주차 (2021/10/29 ~ 2021/11/04)</strong></summary> 
+<br>
+<br>
+
+|     날짜     |                             내용                             | 정리글 |
+| :----------: | :----------------------------------------------------------: | :----: |
+|**10/29(금)**|||
+|**10/30(토)**|||
+|**10/31(일)**|||
+|**11/01(월)**|||
+|**11/02(화)**|[[BOJ_14500_테트로미노](https://www.acmicpc.net/problem/14500)]<br>[[BOJ_1477_휴게소세우기_포기](https://www.acmicpc.net/problem/1477)]||
+|**11/03(수)**|[[BOJ_17144_미세먼지안녕](https://www.acmicpc.net/problem/17144)]||
+|**11/04(목)**|||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 16주차🍂 (2021/11/05 ~ 2021/11/11)</strong></summary> 
+<br>
+<br>
+
+|     문제     |                             내용                             | 수행 |
+| :----------: | :----------------------------------------------------------: | :----: |
+|[[BOJ_2493_탑](https://www.acmicpc.net/problem/2493)]|자료 구조, 스택| O |
+|[[BOJ_17255_N으로만들기](https://www.acmicpc.net/problem/17255)]|자료 구조, 백트래킹, 트리를 사용한 집합과 맵| X |
+|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| X |
 
 <br>
 </details>
