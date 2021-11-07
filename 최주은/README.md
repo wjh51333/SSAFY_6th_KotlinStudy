@@ -280,9 +280,9 @@
 
 | 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
-|골V|[[BOJ_2493_탑](https://www.acmicpc.net/problem/2493)]|자료 구조, 스택| O |[클릭](./BOJ/2493_탑.kt)|
-|골IV|[[BOJ_17255_N으로만들기](https://www.acmicpc.net/problem/17255)]|자료 구조, 백트래킹, 트리를 사용한 집합과 맵| X ||
-|골V|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| X ||
+|골드5|[[BOJ_2493_탑](https://www.acmicpc.net/problem/2493)]|자료 구조, 스택| O |[클릭](./BOJ/2493_탑.kt)|
+|골드4|[[BOJ_17255_N으로만들기](https://www.acmicpc.net/problem/17255)]|자료 구조, 백트래킹, 트리를 사용한 집합과 맵| X ||
+|골드5|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| X ||
 
 <br>
 </details>
