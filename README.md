@@ -65,7 +65,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/07</strong></summary>
-<br>
 
 - 1주차 (2021/7/23 ~ 2021/07/30)
 
@@ -77,7 +76,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/08</strong></summary>
-<br>
 
 - 2주차 (2021/7/31 ~ 2021/08/06)
 
@@ -124,7 +122,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/09</strong></summary>
-<br>
 
 - 6주차 (2021/08/28 ~ 2021/09/03)
 
