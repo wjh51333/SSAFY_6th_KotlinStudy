@@ -325,3 +325,18 @@
   |[박스 채우기](https://www.acmicpc.net/problem/1715)|분할정복|X|
   |[잠수함식별](https://www.acmicpc.net/problem/10942)|문자열|O|
 </details>
+
+<summary>16th study</summary>
+📅기간 : 2021-11-05 ~ 2021-11- 11
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[탑](https://www.acmicpc.net/problem/2493)|자료구조(stack)|O|
+  |[N으로 만들기](https://www.acmicpc.net/problem/17255)|자료구조(재귀)|O|
+  |[단절점과 단절선](https://www.acmicpc.net/problem/14675)|트리|O|
+</details>
