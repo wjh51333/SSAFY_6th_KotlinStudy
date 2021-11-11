@@ -45,25 +45,26 @@
 ## ⭐ **Congrats**
  - 윤상일 (Yoon Sang il) 당근마켓 입사
 
+<br />
+
 ## ✔️ **CHECK LIST**  
 - 매일 조금이라도 코틀린 사용하기  
 - (코틀린 관련) 매일 커밋하기 (21.07.26 ~, 평일 必 주말 재량껏)  
 - 함수형 프로그래밍 지향하기  
 - (권장 사항) 각자 본인 디렉토리에 매일 공부한 내용 정리하여 README.md 작성
   
+<br />
   
 ## 📌 **RULE**  
  - 매주 목요일 저녁 18시 10분 화상미팅  
  - 매주 과제 문제들 풀어보고 발표하기  
 
+<br />
 
 ## 💻 STUDY LOG
 
-
-
 <details markdown="1">
 <summary><strong> 2021/07</strong></summary>
-<br>
 <br>
 
 - 1주차 (2021/7/23 ~ 2021/07/30)
@@ -76,7 +77,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/08</strong></summary>
-<br>
 <br>
 
 - 2주차 (2021/7/31 ~ 2021/08/06)
@@ -122,10 +122,8 @@
 </details>
 
 
-
 <details markdown="1">
 <summary><strong> 2021/09</strong></summary>
-<br>
 <br>
 
 - 6주차 (2021/08/28 ~ 2021/09/03)
@@ -175,6 +173,5 @@
   | 골드 2 | [BOJ 2263 트리의 순회](https://www.acmicpc.net/problem/2263) |              트리               |
   | 골드 5 | [BOJ 1747 소수 & 팰린드롬](https://www.acmicpc.net/problem/1747) | 브루트포스, 에라토스테네스의 체 |
 
-  
 
 </details>
