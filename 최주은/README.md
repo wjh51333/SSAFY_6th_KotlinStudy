@@ -19,7 +19,7 @@
 <br />
 
 <details markdown="1">
-<summary><strong> 1주차 (2021/07/23 ~ 2021/07/29)</strong></summary>
+<summary><strong> 1주차🌱 (2021/07/23 ~ 2021/07/29)</strong></summary>
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 
 
 <details markdown="1">
-<summary><strong> 2주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 2주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -58,7 +58,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 3주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 3주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -76,7 +76,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 4~5주차 (2021/08/13 ~ 2021/08/26)</strong></summary>
+<summary><strong> 4~5주차🌱 (2021/08/13 ~ 2021/08/26)</strong></summary>
 <br>
 <br>
 
@@ -97,7 +97,7 @@
 
 
 <details markdown="1">
-<summary><strong> 6주차 (2021/08/27 ~ 2021/09/02)</strong></summary>
+<summary><strong> 6주차🌱 (2021/08/27 ~ 2021/09/02)</strong></summary>
 <br>
 <br>
 
@@ -115,7 +115,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 7주차 (2021/09/03 ~ 2021/09/09)</strong></summary>
+<summary><strong> 7주차🌱 (2021/09/03 ~ 2021/09/09)</strong></summary>
 <br>
 <br>
 
@@ -134,7 +134,7 @@
 
 
 <details markdown="1">
-<summary><strong> 8주차 (2021/09/10 ~ 2021/09/16)</strong></summary>
+<summary><strong> 8주차🌲 (2021/09/10 ~ 2021/09/16)</strong></summary>
 <br>
 <br>
 
@@ -152,7 +152,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 9주차 (2021/09/17 ~ 2021/09/23)</strong></summary>
+<summary><strong> 9주차🌲 (2021/09/17 ~ 2021/09/23)</strong></summary>
 <br>
 <br>
 
@@ -171,7 +171,7 @@
 
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차🌲 (2021/09/24 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
@@ -189,7 +189,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 11주차 (2021/10/01 ~ 2021/10/07)</strong></summary> 
+<summary><strong> 11주차🌲 (2021/10/01 ~ 2021/10/07)</strong></summary> 
 <br>
 <br>
 
@@ -207,7 +207,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 12주차 (2021/10/08 ~ 2021/10/14)</strong></summary> 
+<summary><strong> 12주차⛱ (2021/10/08 ~ 2021/10/14)</strong></summary> 
 <br>
 <br>
 
@@ -225,7 +225,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 13주차 (2021/10/15 ~ 2021/10/21)</strong></summary> 
+<summary><strong> 13주차⛱ (2021/10/15 ~ 2021/10/21)</strong></summary> 
 <br>
 <br>
 
@@ -243,7 +243,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 14주차 (2021/10/22 ~ 2021/10/28)</strong></summary> 
+<summary><strong> 14주차⛱ (2021/10/22 ~ 2021/10/28)</strong></summary> 
 <br>
 <br>
 
@@ -261,7 +261,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 15주차 (2021/10/29 ~ 2021/11/04)</strong></summary> 
+<summary><strong> 15주차🍂 (2021/10/29 ~ 2021/11/04)</strong></summary> 
 <br>
 <br>
 
@@ -287,7 +287,22 @@
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
 |골드5|[[BOJ_2493_탑](https://www.acmicpc.net/problem/2493)]|자료 구조, 스택| ○ |[클릭](./BOJ/2493_탑.kt)|
 |골드4|[[BOJ_17255_N으로만들기](https://www.acmicpc.net/problem/17255)]|자료 구조, 백트래킹, 트리를 사용한 집합과 맵| △ |[클릭](./BOJ/17255_N으로만들기.kt)|
-|골드5|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| ✕ ||
+|골드5|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| △ |[클릭](./BOJ/14675_단절점과단절선.kt)|
+
+<br>
+</details>
+
+
+<details markdown="1">
+<summary><strong> 17주차🍁 (2021/11/12 ~ 2021/11/18)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
+|골드5|[[BOJ_12865_평범한배낭](https://www.acmicpc.net/problem/12865)]|다이나믹 프로그래밍, 배낭문제| △ |[클릭](./BOJ/12865_평범한배낭.kt)|
+|골드4|[[BOJ_15961_회전초밥](https://www.acmicpc.net/problem/15961)]|두 포인터, 슬라이딩 윈도우| ✕ |[클릭](./BOJ/15961_회전초밥.kt)|
+|골드3|[[BOJ_2109_순회강연](https://www.acmicpc.net/problem/2109)]|자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐| ✕ |[클릭](./BOJ/2109_순회강연.kt)|
 
 <br>
 </details>
