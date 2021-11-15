@@ -19,7 +19,7 @@
 <br />
 
 <details markdown="1">
-<summary><strong> 1주차 (2021/07/23 ~ 2021/07/29)</strong></summary>
+<summary><strong> 1주차🌱 (2021/07/23 ~ 2021/07/29)</strong></summary>
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 
 
 <details markdown="1">
-<summary><strong> 2주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 2주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -58,7 +58,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 3주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 3주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -76,7 +76,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 4~5주차 (2021/08/13 ~ 2021/08/26)</strong></summary>
+<summary><strong> 4~5주차🌱 (2021/08/13 ~ 2021/08/26)</strong></summary>
 <br>
 <br>
 
@@ -97,7 +97,7 @@
 
 
 <details markdown="1">
-<summary><strong> 6주차 (2021/08/27 ~ 2021/09/02)</strong></summary>
+<summary><strong> 6주차🌱 (2021/08/27 ~ 2021/09/02)</strong></summary>
 <br>
 <br>
 
@@ -115,7 +115,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 7주차 (2021/09/03 ~ 2021/09/09)</strong></summary>
+<summary><strong> 7주차🌱 (2021/09/03 ~ 2021/09/09)</strong></summary>
 <br>
 <br>
 
@@ -134,7 +134,7 @@
 
 
 <details markdown="1">
-<summary><strong> 8주차 (2021/09/10 ~ 2021/09/16)</strong></summary>
+<summary><strong> 8주차🌲 (2021/09/10 ~ 2021/09/16)</strong></summary>
 <br>
 <br>
 
@@ -152,7 +152,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 9주차 (2021/09/17 ~ 2021/09/23)</strong></summary>
+<summary><strong> 9주차🌲 (2021/09/17 ~ 2021/09/23)</strong></summary>
 <br>
 <br>
 
@@ -171,7 +171,7 @@
 
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차🌲 (2021/09/24 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
@@ -189,7 +189,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 11주차 (2021/10/01 ~ 2021/10/07)</strong></summary> 
+<summary><strong> 11주차🌲 (2021/10/01 ~ 2021/10/07)</strong></summary> 
 <br>
 <br>
 
@@ -207,7 +207,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 12주차 (2021/10/08 ~ 2021/10/14)</strong></summary> 
+<summary><strong> 12주차⛱ (2021/10/08 ~ 2021/10/14)</strong></summary> 
 <br>
 <br>
 
@@ -225,7 +225,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 13주차 (2021/10/15 ~ 2021/10/21)</strong></summary> 
+<summary><strong> 13주차⛱ (2021/10/15 ~ 2021/10/21)</strong></summary> 
 <br>
 <br>
 
@@ -243,7 +243,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 14주차 (2021/10/22 ~ 2021/10/28)</strong></summary> 
+<summary><strong> 14주차⛱ (2021/10/22 ~ 2021/10/28)</strong></summary> 
 <br>
 <br>
 
@@ -261,7 +261,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 15주차 (2021/10/29 ~ 2021/11/04)</strong></summary> 
+<summary><strong> 15주차🍂 (2021/10/29 ~ 2021/11/04)</strong></summary> 
 <br>
 <br>
 
@@ -294,7 +294,7 @@
 
 
 <details markdown="1">
-<summary><strong> 17주차🍂 (2021/11/12 ~ 2021/11/18)</strong></summary> 
+<summary><strong> 17주차🍁 (2021/11/12 ~ 2021/11/18)</strong></summary> 
 <br>
 <br>
 
