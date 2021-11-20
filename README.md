@@ -172,3 +172,106 @@
 
 
 </details>
+
+
+<details markdown="1">
+<summary><strong> 2021/10</strong></summary>
+
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">11주차<br>(2021/10/01 ~ 2021/10/07)</td>
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1715">
+                    BOJ 1715 카드 정렬하기
+                </a>
+            </td>
+            <td>그리디</td>
+        </tr>
+        <tr align="center">
+            <td>실버 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21317">
+                    BOJ 21317 징검다리 건너기
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/10942">
+                    BOJ 10942 팰린드롬?
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">12주차<br>(2021/10/08 ~ 2021/10/15)</td>
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1806">
+                    BOJ 1806 부분합
+                </a>
+            </td>
+            <td>투 포인터</td>
+        </tr>
+        <tr align="center">
+            <td>골드 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21611">
+                    BOJ 21611 마법사 상어와 블리자드
+                </a>
+            </td>
+            <td>구현</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16932">
+                    BOJ 16932 모양 만들기
+                </a>
+            </td>
+            <td>그래프 탐색</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">14주차<br>(2021/10/23 ~ 2021/10/28)</td>
+             <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14500">
+                    BOJ 14500 테트로미노
+                </a>
+            </td>
+            <td>완전탐색</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17144">
+                    BOJ 17144 미세먼지 안녕!
+                </a>
+            </td>
+            <td>시뮬레이션</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1477">
+                    BOJ 1477 휴게소 세우기
+                </a>
+            </td>
+            <td>이분탐색</td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
