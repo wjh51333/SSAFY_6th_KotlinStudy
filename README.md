@@ -275,3 +275,135 @@
 </table>
 
 </details>
+
+
+
+<details markdown="1">
+<summary><strong> 2021/11</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">15주차<br>(2021/10/29 ~ 2021/11/04)</td>
+            <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17136">
+                    BOJ 17136 색종이 붙이기
+                </a>
+            </td>
+            <td>백트래킹</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1493">
+                    BOJ 1493 박스 채우기
+                </a>
+            </td>
+            <td>분할정복</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2671">
+                    BOJ 2671 잠수함식별
+                </a>
+            </td>
+            <td>문자열</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">16주차<br>(2021/11/05 ~ 2021/11/11)</td>
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2493">
+                    BOJ 2493 탑
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17255">
+                    BOJ 17255 N으로 만들기
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14675">
+                    BOJ 14675 단절점과 단절선
+                </a>
+            </td>
+            <td>트리</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">17주차<br>(2021/11/12 ~ 2021/11/18)</td>
+             <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2109">
+                    BOJ 2109 순회강연
+                </a>
+            </td>
+            <td>그리디</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/12865">
+                    BOJ 12865 평범한 배낭
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/15961">
+                    BOJ 15961 회전 초밥
+                </a>
+            </td>
+            <td>투 포인터, 슬라이딩 윈도우</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">18주차<br>(2021/11/19 ~ 2021/11/25)</td>
+             <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/12100">
+                    BOJ 12100 2048 (Easy)
+                </a>
+            </td>
+            <td>구현</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17141">
+                    BOJ 17141 연구소 2
+                </a>
+            </td>
+            <td>그래프</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14391">
+                    BOJ 14391 종이 조각
+                </a>
+            </td>
+            <td>완전탐색</td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
