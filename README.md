@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=320&section=header&text=Kotlism&fontSize=90&fontAlignY=35&desc=🐇%20Let's%20study%20Kotlin%20together!&descAlignY=60)
- 
- 
+
+
  ## 👋 **Member**
 
 <table align="center" style="font-weight : bold">
@@ -39,7 +39,7 @@
         <td align="center">최주은</td>
     </tr>
 </table>
-  
+
 <br />
 
 ## ⭐ **Congrats**
@@ -53,8 +53,9 @@
 - 함수형 프로그래밍 지향하기  
 - (권장 사항) 각자 본인 디렉토리에 매일 공부한 내용 정리하여 README.md 작성
   
+
 <br />
-  
+
 ## 📌 **RULE**  
  - 매주 목요일 저녁 18시 10분 화상미팅  
  - 매주 과제 문제들 풀어보고 발표하기  
@@ -169,6 +170,75 @@
   | :----: | :----------------------------------------------------------: | :-----------------------------: |
   | 골드 2 | [BOJ 2263 트리의 순회](https://www.acmicpc.net/problem/2263) |              트리               |
   | 골드 5 | [BOJ 1747 소수 & 팰린드롬](https://www.acmicpc.net/problem/1747) | 브루트포스, 에라토스테네스의 체 |
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">6주차<br>(2021/08/28 ~ 2021/09/03)</td>
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1915">
+                    BOJ 1915 가장 큰 정사각형
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td>실버 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/10922">
+                    BOJ 10922 겹치는 건 싫어
+                </a>
+            </td>
+            <td>투 포인터</td>
+        </tr>
+        <tr align="center">
+            <td>실버 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21608">
+                    BOJ 21608 상어 초등학교
+                </a>
+            </td>
+            <td>구현</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">7주차<br>(2021/09/04 ~ 2021/09/11)</td>
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/15686">
+                    BOJ 15686 치킨 배달
+                </a>
+            </td>
+            <td>브루트포스</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16234">
+                    BOJ 16234 인구 이동
+                </a>
+            </td>
+            <td>BFS, 구현, 시뮬레이션</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/13023">
+                    BOJ 13023 ABCDE
+                </a>
+            </td>
+            <td>DFS</td>
+        </tr>
+    </tbody>
+</table>
 
 
 </details>
