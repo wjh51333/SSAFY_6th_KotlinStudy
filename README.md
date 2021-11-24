@@ -123,53 +123,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/09</strong></summary>
-
-- 6주차 (2021/08/28 ~ 2021/09/03)
-
-  |  레벨  |                             문제                             |   유형    |
-  | :----: | :----------------------------------------------------------: | :-------: |
-  | 골드 4 | [BOJ 1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |    DP     |
-  | 실버 1 | [BOJ 10922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | 투 포인터 |
-  | 실버 1 | [BOJ 21608 상어 초등학교](https://www.acmicpc.net/problem/21608) |   구현    |
-
-  
-
-- 7주차 (2021/09/04 ~ 2021/09/11)
-
-  |  레벨  |                             문제                             |         유형          |
-  | :----: | :----------------------------------------------------------: | :-------------------: |
-  | 골드 5 | [BOJ 15686 치킨 배달](https://www.acmicpc.net/problem/15686) |      브루트포스       |
-  | 골드 5 | [BOJ 16234 인구 이동](https://www.acmicpc.net/problem/16234) | BFS, 구현, 시뮬레이션 |
-  | 골드 5 |   [BOJ 13023 ABCDE](https://www.acmicpc.net/problem/13023)   |          DFS          |
-
-  
-
-- 8주차 (2021/09/12 ~ 2021/09/19)
-
-  |  레벨  |                             문제                             |       유형       |
-  | :----: | :----------------------------------------------------------: | :--------------: |
-  | 골드 4 | [BOJ 13397 구간 나누기 2](https://www.acmicpc.net/problem/13397) |    이분 탐색     |
-  | 골드 4 |   [BOJ 2580 스도쿠](https://www.acmicpc.net/problem/2580)    |     백트래킹     |
-  | 골드 4 | [BOJ 2374 같은 수로 만들기](https://www.acmicpc.net/problem/2374) | 분할정복, 그리디 |
-
-  
-
-- 9주차 (2021/09/17 ~ 2021/09/23)
-
-  |  레벨  |                             문제                             |   유형   |
-  | :----: | :----------------------------------------------------------: | :------: |
-  | 골드 4 | [BOJ 16916 부분 문자열](https://www.acmicpc.net/problem/16916) |  문자열  |
-  | 골드 3 | [BOJ 1918 후위 표기식](https://www.acmicpc.net/problem/1918) | 자료구조 |
-  | 골드 5 | [BOJ 7662 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | 자료구조 |
-
-  
-
-- 10주차 (2021/09/24 ~ 2021/09/30)
-
-  |  레벨  |                             문제                             |              유형               |
-  | :----: | :----------------------------------------------------------: | :-----------------------------: |
-  | 골드 2 | [BOJ 2263 트리의 순회](https://www.acmicpc.net/problem/2263) |              트리               |
-  | 골드 5 | [BOJ 1747 소수 & 팰린드롬](https://www.acmicpc.net/problem/1747) | 브루트포스, 에라토스테네스의 체 |
 <br>
 <table style="text-aling:center">
     <thead>
@@ -236,6 +189,81 @@
                 </a>
             </td>
             <td>DFS</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">8주차<br>(2021/09/12 ~ 2021/09/19)</td>
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/13397">
+                    BOJ 13397 구간 나누기 2
+                </a>
+            </td>
+            <td>이분 탐색</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2580">
+                    BOJ 2580 스도쿠
+                </a>
+            </td>
+            <td>백트래킹</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2374">
+                    BOJ 2374 같은 수로 만들기
+                </a>
+            </td>
+            <td>분할정복, 그리디</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">9주차<br>(2021/09/17 ~ 2021/09/23)</td>
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16916">
+                    BOJ 16916 부분 문자열
+                </a>
+            </td>
+            <td>문자열</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1918">
+                    BOJ 1918 후위 표기식
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/7662">
+                    BOJ 7662 이중 우선순위 큐
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">10주차<br>(2021/09/24 ~ 2021/09/30)</td>
+            <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2263">
+                    BOJ 2263 트리의 순회
+                </a>
+            </td>
+            <td>트리</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1747">
+                    BOJ 1747 소수 & 팰린드롬
+                </a>
+            </td>
+            <td>브루트포스, 에라토스테네스의 체</td>
         </tr>
     </tbody>
 </table>
