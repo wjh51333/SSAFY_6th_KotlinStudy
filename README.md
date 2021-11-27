@@ -66,12 +66,6 @@
 
 <details markdown="1">
 <summary><strong> 2021/07</strong></summary>
-
-- 1주차 (2021/7/23 ~ 2021/07/30)
-
-  [백준 알고리즘 단계별 문제풀이 ~20](https://www.acmicpc.net/step)
-
-
 <br>
 <table style="text-aling:center">
     <thead>
