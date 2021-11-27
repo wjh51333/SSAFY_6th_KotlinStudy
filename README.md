@@ -71,6 +71,28 @@
 
   [백준 알고리즘 단계별 문제풀이 ~20](https://www.acmicpc.net/step)
 
+
+<br>
+<table style="text-aling:center">
+    <thead>
+       <tr align="center">
+        	<th> </th>
+    		   <th>문제</th>
+    	  </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td>1주차<br>(2021/07/23 ~ 2021/07/30)</td>
+            <td>
+                <a href="https://www.acmicpc.net/step">
+                    백준 알고리즘 단계별 문제풀이 ~20
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 </details>
 
 
