@@ -34,7 +34,7 @@
     <tr>
         <td align="center">김도연</td>
         <td align="center">우지현</td>
-        <td align="center">🎉 윤상일</td>
+        <td align="center">🥕 윤상일</td>
         <td align="center">이수형</td>
         <td align="center">최주은</td>
     </tr>
@@ -576,7 +576,53 @@
             <td>투 포인터, 슬라이딩 윈도우</td>
         </tr>
         <tr align="center">
-            <td rowspan="3">18주차<br>(2021/11/19 ~ 2021/11/25)</td>
+            <td rowspan="3">18, 19주차<br>(2021/11/19 ~ 2021/12/02)</td>
+             <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/12100">
+                    BOJ 12100 2048 (Easy)
+                </a>
+            </td>
+            <td>구현</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17141">
+                    BOJ 17141 연구소 2
+                </a>
+            </td>
+            <td>그래프</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14391">
+                    BOJ 14391 종이 조각
+                </a>
+            </td>
+            <td>완전탐색</td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+
+<details markdown="1">
+<summary><strong> 2021/12</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">18, 19주차<br>(2021/11/19 ~ 2021/12/02)</td>
              <td>골드 2</td>
             <td>
                 <a href="https://www.acmicpc.net/problem/12100">
