@@ -1,9 +1,25 @@
-### 💡 Study Diary 주은  
+## 💡 Study Diary 주은  
 
+### Updates
+- 기존의 Summary는 어떤 알고리즘이 약한지 알 수 없었으므로 구조를 변경하였습니다.
+- 바로가기 버튼을 만들어 git repository에 작성한 파일에 바로 접근할 수 있도록 수정하였습니다.
+
+### Todo
+- 스터디 내용 요약집 업로드 하면서 정리하기
+- Git 제외한 기술 블로그 또는 서술 내용 작성하기
+- 내용 요약해서 남들에게 말 할 수 있도록 정리하기
+
+### Marking Rule
+- ○ : 다른 참고 자료를 사용하지 않고, 적정 시간내에 풀이한 문제
+- △ : 참고 자료 또는 오랜 시간내에 풀이를 하여 재검토가 필요한 문제 
+- ✕ : 제한 시간안에 풀이를 끝내지 못했거나 시도조차 못한 
+
+
+### Summary ▼
 <br />
 
 <details markdown="1">
-<summary><strong> 1주차 (2021/07/23 ~ 2021/07/29)</strong></summary>
+<summary><strong> 1주차🌱 (2021/07/23 ~ 2021/07/29)</strong></summary>
 <br>
 <br>
 
@@ -24,7 +40,7 @@
 
 
 <details markdown="1">
-<summary><strong> 2주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 2주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -42,7 +58,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 3주차 (2021/07/30 ~ 2021/08/05)</strong></summary>
+<summary><strong> 3주차🌱 (2021/07/30 ~ 2021/08/05)</strong></summary>
 <br>
 <br>
 
@@ -60,7 +76,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 3~4주차 (2021/08/13 ~ 2021/08/26)</strong></summary>
+<summary><strong> 4~5주차🌱 (2021/08/13 ~ 2021/08/26)</strong></summary>
 <br>
 <br>
 
@@ -81,7 +97,7 @@
 
 
 <details markdown="1">
-<summary><strong> 5주차 (2021/08/27 ~ 2021/09/02)</strong></summary>
+<summary><strong> 6주차🌱 (2021/08/27 ~ 2021/09/02)</strong></summary>
 <br>
 <br>
 
@@ -99,7 +115,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 6주차 (2021/09/03 ~ 2021/09/09)</strong></summary>
+<summary><strong> 7주차🌱 (2021/09/03 ~ 2021/09/09)</strong></summary>
 <br>
 <br>
 
@@ -118,7 +134,7 @@
 
 
 <details markdown="1">
-<summary><strong> 7주차 (2021/09/10 ~ 2021/09/16)</strong></summary>
+<summary><strong> 8주차🌲 (2021/09/10 ~ 2021/09/16)</strong></summary>
 <br>
 <br>
 
@@ -136,7 +152,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 8주차 (2021/09/17 ~ 2021/09/23)</strong></summary>
+<summary><strong> 9주차🌲 (2021/09/17 ~ 2021/09/23)</strong></summary>
 <br>
 <br>
 
@@ -155,7 +171,7 @@
 
 
 <details markdown="1">
-<summary><strong> 9주차 (2021/09/24 ~ 2021/09/30)</strong></summary> 
+<summary><strong> 10주차🌲 (2021/09/24 ~ 2021/09/30)</strong></summary> 
 <br>
 <br>
 
@@ -173,7 +189,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 10주차 (2021/10/01 ~ 2021/10/07)</strong></summary> 
+<summary><strong> 11주차🌲 (2021/10/01 ~ 2021/10/07)</strong></summary> 
 <br>
 <br>
 
@@ -191,7 +207,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 11주차 (2021/10/08 ~ 2021/10/14)</strong></summary> 
+<summary><strong> 12주차⛱ (2021/10/08 ~ 2021/10/14)</strong></summary> 
 <br>
 <br>
 
@@ -209,7 +225,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 12주차 (2021/10/15 ~ 2021/10/21)</strong></summary> 
+<summary><strong> 13주차⛱ (2021/10/15 ~ 2021/10/21)</strong></summary> 
 <br>
 <br>
 
@@ -227,7 +243,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 13주차 (2021/10/22 ~ 2021/10/28)</strong></summary> 
+<summary><strong> 14주차⛱ (2021/10/22 ~ 2021/10/28)</strong></summary> 
 <br>
 <br>
 
@@ -240,6 +256,67 @@
 |**10/26(화)**|[[BOJ_14500_테트로미노](https://www.acmicpc.net/problem/14500)]<br>[[BOJ_1477_휴게소세우기_포기](https://www.acmicpc.net/problem/1477)]||
 |**10/27(수)**|[[BOJ_17144_미세먼지안녕](https://www.acmicpc.net/problem/17144)]||
 |**10/28(목)**|||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 15주차🍂 (2021/10/29 ~ 2021/11/04)</strong></summary> 
+<br>
+<br>
+
+|     날짜     |                             내용                             | 정리글 |
+| :----------: | :----------------------------------------------------------: | :----: |
+|**10/29(금)**|||
+|**10/30(토)**|||
+|**10/31(일)**|||
+|**11/01(월)**|||
+|**11/02(화)**|[[BOJ_14500_테트로미노](https://www.acmicpc.net/problem/14500)]<br>[[BOJ_1477_휴게소세우기_포기](https://www.acmicpc.net/problem/1477)]||
+|**11/03(수)**|[[BOJ_17144_미세먼지안녕](https://www.acmicpc.net/problem/17144)]||
+|**11/04(목)**|||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 16주차🍂 (2021/11/05 ~ 2021/11/11)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
+|골드5|[[BOJ_2493_탑](https://www.acmicpc.net/problem/2493)]|자료 구조, 스택| ○ |[클릭](./BOJ/2493_탑.kt)|
+|골드4|[[BOJ_17255_N으로만들기](https://www.acmicpc.net/problem/17255)]|자료 구조, 백트래킹, 트리를 사용한 집합과 맵| △ |[클릭](./BOJ/17255_N으로만들기.kt)|
+|골드5|[[BOJ_14675_단절점과단절선](https://www.acmicpc.net/problem/14675)]|그래프 이론, 트리| △ |[클릭](./BOJ/14675_단절점과단절선.kt)|
+
+<br>
+</details>
+
+
+<details markdown="1">
+<summary><strong> 17주차🍁 (2021/11/12 ~ 2021/11/18)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
+|골드5|[[BOJ_12865_평범한배낭](https://www.acmicpc.net/problem/12865)]|다이나믹 프로그래밍, 배낭문제| △ |[클릭](./BOJ/12865_평범한배낭.kt)|
+|골드4|[[BOJ_15961_회전초밥](https://www.acmicpc.net/problem/15961)]|두 포인터, 슬라이딩 윈도우| ✕ |[클릭](./BOJ/15961_회전초밥.kt)|
+|골드3|[[BOJ_2109_순회강연](https://www.acmicpc.net/problem/2109)]|자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐| △ |[클릭](./BOJ/2109_순회강연.kt)|
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 18~19주차🍁 (2021/11/19 ~ 2021/12/02)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
+|골드2|[[BOJ_12100_2048(Easy)](https://www.acmicpc.net/problem/12100)]|구현,브루트포스 알고리즘,시뮬레이션,백트래킹| ✕ |[클릭](./BOJ/12100_2048(Easy).kt)|
+|골드4|[[BOJ_17141_연구소2](https://www.acmicpc.net/problem/17141)]|그래프이론, 그래프탐색, 브루트포스 알고리즘, 너비우선탐색| ○ |[클릭](./BOJ/17141_연구소2.kt)|
+|골드3|[[BOJ_14391_종이조각](https://www.acmicpc.net/problem/14391)]|브루트포스 알고리즘, 비트마스킹| ✕ |[클릭](./BOJ/14391_종이조각.kt)|
 
 <br>
 </details>
