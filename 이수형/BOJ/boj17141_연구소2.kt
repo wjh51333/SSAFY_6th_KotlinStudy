@@ -1,7 +1,5 @@
 package today3
 
-import java.io.BufferedReader
-import java.io.InputStreamReader
 import java.util.*
 
 
@@ -17,9 +15,9 @@ var dy = intArrayOf(1, -1, 0, 0)
 lateinit var check: BooleanArray
 lateinit var virusx: IntArray
 lateinit var virusy: IntArray
-fun main() {
-    val br = BufferedReader(InputStreamReader(System.`in`))
-    var temp = br.readLine().split(" ".toRegex()).toTypedArray()
+fun main() = with(System.`in`.bufferedReader()) {
+
+    var temp = readLine().split(" ".toRegex()).toTypedArray()
     N = temp[0].toInt()
     M = temp[1].toInt()
     viruslist = ArrayList()
@@ -30,7 +28,7 @@ fun main() {
     min = 9999
     wall = 0
     for (i in 0 until N) {
-        temp = br.readLine().split(" ".toRegex()).toTypedArray()
+        temp = readLine().split(" ".toRegex()).toTypedArray()
         for (j in 0 until N) {
             val num = temp[j].toInt()
             if (num == 1) {
