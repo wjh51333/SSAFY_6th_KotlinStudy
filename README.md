@@ -34,7 +34,7 @@
     <tr>
         <td align="center">김도연</td>
         <td align="center">우지현</td>
-        <td align="center">🎉 윤상일</td>
+        <td align="center">🥕 윤상일</td>
         <td align="center">이수형</td>
         <td align="center">최주은</td>
     </tr>
@@ -66,10 +66,26 @@
 
 <details markdown="1">
 <summary><strong> 2021/07</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+       <tr align="center">
+        	<th> </th>
+    		   <th>문제</th>
+    	  </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td>1주차<br>(2021/07/23 ~ 2021/07/30)</td>
+            <td>
+                <a href="https://www.acmicpc.net/step">
+                    백준 알고리즘 단계별 문제풀이 ~20
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-- 1주차 (2021/7/23 ~ 2021/07/30)
-
-  [백준 알고리즘 단계별 문제풀이 ~20](https://www.acmicpc.net/step)
 
 </details>
 
@@ -77,46 +93,132 @@
 
 <details markdown="1">
 <summary><strong> 2021/08</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">2주차<br>(2021/07/31 ~ 2021/08/06)</td>
+            <td>Level 3</td>
+            <td>
+                <a href="https://programmers.co.kr/learn/courses/30/lessons/43162">
+                    프로그래머스 네트워크
+                </a>
+            </td>
+            <td>DFS/BFS</td>
+        </tr>
+        <tr align="center">
+            <td>Level 2</td>
+            <td>
+                <a href="https://programmers.co.kr/learn/courses/30/lessons/72412">
+                    프로그래머스 순위 검색
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>Level 2</td>
+            <td>
+                <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">
+                    프로그래머스 문자열 압축
+                </a>
+            </td>
+            <td>문자열</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">3주차<br>(2021/08/07 ~ 2021/08/13)</td>
+            <td>실버 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/7576">
+                    BOJ 7576 토마토
+                </a>
+            </td>
+            <td>BFS</td>
+        </tr>
+        <tr align="center">
+            <td>실버 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1012">
+                    BOJ 1012 유기농 배추
+                </a>
+            </td>
+            <td>DFS/BFS</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2589">
+                    BOJ 2589 보물섬
+                </a>
+            </td>
+            <td>BFS</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">4주차<br>(2021/08/14 ~ 2021/08/20)</td>
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2800">
+                    BOJ 2800 괄호제거
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>실버 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/11279">
+                    BOJ 11279 최대 힙
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/4256">
+                    BOJ 4256 트리
+                </a>
+            </td>
+            <td>트리, 분할정복</td>
+        </tr>
+        <tr align="center">
+            <td rowspan="3">5주차<br>(2021/08/21 ~ 2021/08/27)</td>
+            <td>실버 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21275">
+                    BOJ 21275 폰 호석만
+                </a>
+            </td>
+            <td>수학</td>
+        </tr>
+        <tr align="center">
+            <td>골드 5</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/19598">
+                    BOJ 19598 최소 회의실 개수
+                </a>
+            </td>
+            <td>그리디</td>
+        </tr>
+        <tr align="center">
+            <td>실버 1</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21317">
+                    BOJ 21317 징검다리 건너기
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+    </tbody>
+</table>
 
-- 2주차 (2021/7/31 ~ 2021/08/06)
-
-  |  레벨   |                             문제                             |   유형   |
-  | :-----: | :----------------------------------------------------------: | :------: |
-  | Level 3 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS  |
-  | Level 2 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | 자료구조 |
-  | Level 2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  문자열  |
-
-  
-
-- 3주차 (2021/08/07 ~ 2021/08/13)
-
-  |  레벨  |                             문제                             |  유형   |
-  | :----: | :----------------------------------------------------------: | :-----: |
-  | 실버 1 |   [BOJ 7576 토마토](https://www.acmicpc.net/problem/7576)    |   BFS   |
-  | 실버 2 | [BOJ 1012 유기농 배추](https://www.acmicpc.net/problem/1012) | DFS/BFS |
-  | 골드 5 |   [BOJ 2589 보물섬](https://www.acmicpc.net/problem/2589)    |   BFS   |
-
-  
-
-- 4주차 (2021/08/14 ~ 2021/08/20)
-
-  |  레벨  |                            문제                            |      유형      |
-  | :----: | :--------------------------------------------------------: | :------------: |
-  | 골드 5 | [BOJ 2800 괄호제거](https://www.acmicpc.net/problem/2800)  |    자료구조    |
-  | 실버 2 | [BOJ 11279 최대 힙](https://www.acmicpc.net/problem/11279) |    자료구조    |
-  | 골드 3 |   [BOJ 4256 트리](https://www.acmicpc.net/problem/4256)    | 트리, 분할정복 |
-
-  
-
-- 5주차 (2021/08/21 ~ 2021/08/27)
-
-  |  레벨  |                             문제                             |  유형  |
-  | :----: | :----------------------------------------------------------: | :----: |
-  | 실버 3 | [BOJ 21275 폰 호석만](https://www.acmicpc.net/problem/21275) |  수학  |
-  | 골드 5 | [BOJ 19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | 그리디 |
-  | 실버 1 | [BOJ 21317 징검다리 건너기](https://www.acmicpc.net/problem/21317) |   DP   |
-
-  
 
 </details>
 
@@ -474,7 +576,53 @@
             <td>투 포인터, 슬라이딩 윈도우</td>
         </tr>
         <tr align="center">
-            <td rowspan="3">18주차<br>(2021/11/19 ~ 2021/11/25)</td>
+            <td rowspan="3">18, 19주차<br>(2021/11/19 ~ 2021/12/02)</td>
+             <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/12100">
+                    BOJ 12100 2048 (Easy)
+                </a>
+            </td>
+            <td>구현</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/17141">
+                    BOJ 17141 연구소 2
+                </a>
+            </td>
+            <td>그래프</td>
+        </tr>
+        <tr align="center">
+            <td>골드 3</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14391">
+                    BOJ 14391 종이 조각
+                </a>
+            </td>
+            <td>완전탐색</td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+
+<details markdown="1">
+<summary><strong> 2021/12</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="3">18, 19주차<br>(2021/11/19 ~ 2021/12/02)</td>
              <td>골드 2</td>
             <td>
                 <a href="https://www.acmicpc.net/problem/12100">
