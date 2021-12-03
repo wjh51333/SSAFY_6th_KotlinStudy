@@ -649,6 +649,34 @@
             </td>
             <td>완전탐색</td>
         </tr>
+     <tr align="center">
+            <td rowspan="3">20주차<br>(2021/12/03 ~ 2021/12/09)</td>
+             <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16235">
+                    BOJ 16235 나무 재테크
+                </a>
+            </td>
+            <td>시뮬레이션</td>
+        </tr>
+        <tr align="center">
+            <td>골드 2</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1561">
+                    BOJ 1561 놀이 공원
+                </a>
+            </td>
+            <td>이분탐색</td>
+        </tr>
+        <tr align="center">
+            <td>골드 4</td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/10830">
+                    BOJ 10830 행렬 제곱
+                </a>
+            </td>
+            <td>분할정복</td>
+        </tr>
     </tbody>
 </table>
 
