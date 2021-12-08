@@ -332,6 +332,7 @@
 |골드4|[[BOJ_10830_행렬제곱](https://www.acmicpc.net/problem/10830)]|수학, 분할 정복, 분할 정복을 이용한 거듭제곱, 선형대수학| ○ |[클릭](./BOJ/10830_행렬제곱(2).kt)|
 |골드2|[[BOJ_1561_놀이공원](https://www.acmicpc.net/problem/1561)]|이분 탐색, 매개 변수 탐색| ✕ |[클릭](./BOJ/1561_놀이공원.kt)|
 |실버4|[[BOJ_1920_수찾기](https://www.acmicpc.net/problem/1920)]|이분 탐색| ○ |[클릭](./BOJ/1920_수찾기.kt)|
+|실버3|[[BOJ_1654_랜선자르기](https://www.acmicpc.net/problem/1654)]|이분 탐색| ○ |[클릭](./BOJ/1654_랜선자르기.kt)|
 
 
 <br>
