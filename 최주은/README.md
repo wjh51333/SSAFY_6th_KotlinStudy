@@ -331,6 +331,7 @@
 |골드4|[[BOJ_16235_나무재테크](https://www.acmicpc.net/problem/16235)]|구현, 시뮬레이션| ○ |[클릭](./BOJ/16235_나무재테크.kt)|
 |골드4|[[BOJ_10830_행렬제곱](https://www.acmicpc.net/problem/10830)]|수학, 분할 정복, 분할 정복을 이용한 거듭제곱, 선형대수학| ○ |[클릭](./BOJ/10830_행렬제곱(2).kt)|
 |골드2|[[BOJ_1561_놀이공원](https://www.acmicpc.net/problem/1561)]|이분 탐색, 매개 변수 탐색| ✕ |[클릭](./BOJ/1561_놀이공원.kt)|
+|실버4|[[BOJ_1920_수찾기](https://www.acmicpc.net/problem/1920)]|이분 탐색| ○ |[클릭](./BOJ/1920_수찾기.kt)|
 
 
 <br>
