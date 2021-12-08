@@ -333,6 +333,7 @@
 |골드2|[[BOJ_1561_놀이공원](https://www.acmicpc.net/problem/1561)]|이분 탐색, 매개 변수 탐색| ✕ |[클릭](./BOJ/1561_놀이공원.kt)|
 |실버4|[[BOJ_1920_수찾기](https://www.acmicpc.net/problem/1920)]|이분 탐색| ○ |[클릭](./BOJ/1920_수찾기.kt)|
 |실버3|[[BOJ_1654_랜선자르기](https://www.acmicpc.net/problem/1654)]|이분 탐색| ○ |[클릭](./BOJ/1654_랜선자르기.kt)|
+|실버1|[[BOJ_2110_공유기설치](https://www.acmicpc.net/problem/2110)]|이분 탐색| △ |[클릭](./BOJ/2110_공유기설치.kt)|
 
 
 <br>
