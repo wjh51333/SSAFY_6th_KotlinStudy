@@ -348,8 +348,8 @@
 </details>
 
 <details>
-<summary>16th study</summary>
-📅기간 : 2021-11-05 ~ 2021-11- 11
+<summary>17th study</summary>
+📅기간 : 2021-11-12 ~ 2021-11- 18
 
   🌱목표
   * Kotlin으로 기본 자료구조 구현
@@ -361,4 +361,36 @@
   |[순회강연](https://www.acmicpc.net/problem/2109)|그리디|X|
   |[평범한 배낭](https://www.acmicpc.net/problem/12865)|DP|X|
   |[회전 초밥](https://www.acmicpc.net/problem/15961)|투 포인터|X|
+</details>
+
+<details>
+<summary>18th study</summary>
+📅기간 : 2021-11-19 ~ 2021-12- 02
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[2048(Easy)](https://www.acmicpc.net/problem/12100)|구현|O|
+  |[연구소 2](https://www.acmicpc.net/problem/17141)|그래프|O|
+  |[종이 조각](https://www.acmicpc.net/problem/14391)|완탐|O|
+</details>
+
+<details>
+<summary>18th study</summary>
+📅기간 : 2021-12-03 ~ 2021-12- 09
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[나무 재테크](https://www.acmicpc.net/problem/16235)|구현|O|
+  |[놀이 공원](https://www.acmicpc.net/problem/1561)|이분탐색|X|
+  |[행렬 제곱](https://www.acmicpc.net/problem/10830)|분할정복|X|
 </details>
