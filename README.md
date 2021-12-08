@@ -134,7 +134,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">3주차<br>(2021/08/07 ~ 2021/08/13)</td>
-            <td><img src="./Tier/silver1.svg" width="15"/></td>
+            <td><img src="./Tier/silver1.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/7576">
                     BOJ 7576 토마토
