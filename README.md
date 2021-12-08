@@ -134,7 +134,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">3주차<br>(2021/08/07 ~ 2021/08/13)</td>
-            <td><img src="./Tier/silver1.svg"/>실버 1</td>
+            <td><img src="./Tier/silver1.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/7576">
                     BOJ 7576 토마토
@@ -143,7 +143,7 @@
             <td>BFS</td>
         </tr>
         <tr align="center">
-            <td>실버 2</td>
+            <td><img src="./Tier/silver2.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1012">
                     BOJ 1012 유기농 배추
@@ -152,7 +152,7 @@
             <td>DFS/BFS</td>
         </tr>
         <tr align="center">
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2589">
                     BOJ 2589 보물섬
@@ -162,7 +162,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">4주차<br>(2021/08/14 ~ 2021/08/20)</td>
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2800">
                     BOJ 2800 괄호제거
@@ -171,7 +171,7 @@
             <td>자료구조</td>
         </tr>
         <tr align="center">
-            <td>실버 2</td>
+            <td><img src="./Tier/silver2.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/11279">
                     BOJ 11279 최대 힙
@@ -180,7 +180,7 @@
             <td>자료구조</td>
         </tr>
         <tr align="center">
-            <td>골드 3</td>
+            <td><img src="./Tier/gold3.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/4256">
                     BOJ 4256 트리
@@ -190,7 +190,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">5주차<br>(2021/08/21 ~ 2021/08/27)</td>
-            <td>실버 3</td>
+            <td><img src="./Tier/silver3.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/21275">
                     BOJ 21275 폰 호석만
@@ -199,7 +199,7 @@
             <td>수학</td>
         </tr>
         <tr align="center">
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/19598">
                     BOJ 19598 최소 회의실 개수
@@ -208,7 +208,7 @@
             <td>그리디</td>
         </tr>
         <tr align="center">
-            <td>실버 1</td>
+            <td><img src="./Tier/silver1.svg" width="20"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/21317">
                     BOJ 21317 징검다리 건너기
