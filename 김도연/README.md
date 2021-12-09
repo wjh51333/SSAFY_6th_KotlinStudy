@@ -391,6 +391,6 @@
   |문제|문제 유형|해결|
   |:----:|:----------|:----:|
   |[나무 재테크](https://www.acmicpc.net/problem/16235)|구현|O|
-  |[놀이 공원](https://www.acmicpc.net/problem/1561)|이분탐색|X|
-  |[행렬 제곱](https://www.acmicpc.net/problem/10830)|분할정복|X|
+  |[놀이 공원](https://www.acmicpc.net/problem/1561)|이분탐색|O|
+  |[행렬 제곱](https://www.acmicpc.net/problem/10830)|분할정복|O|
 </details>
