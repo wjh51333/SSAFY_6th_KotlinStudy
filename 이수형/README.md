@@ -337,7 +337,7 @@
 |**11/28(일)**||
 |**11/29(월)**||
 |**11/30(화)**|[boj14391_종이조각](https://www.acmicpc.net/problem/14391)([Kotlin](./BOJ/boj14391_종이조각.kt))|
-|**12/01(수)**|[boj28252_연구소2](https://www.acmicpc.net/problem/28252)([Kotlin](./BOJ/boj28252_연구소2.kt))|
+|**12/01(수)**|[boj17141_연구소2](https://www.acmicpc.net/problem/28252)([Kotlin](./BOJ/boj17141_연구소2.kt))|
 |**12/02(목)**||
 |**12/03(금)**||
 
