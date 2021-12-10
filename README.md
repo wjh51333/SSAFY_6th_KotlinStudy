@@ -677,6 +677,34 @@
             </td>
             <td>분할정복</td>
         </tr>
+        <tr align="center">
+            <td rowspan="3">21주차<br>(2021/12/10 ~ 2021/12/16)</td>
+            <td><img src="./Tier/gold2.svg" width="20"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14725">
+                    BOJ 14725 개미굴
+                </a>
+            </td>
+            <td>문자열</td>
+        </tr>
+        <tr align="center">
+            <td><img src="./Tier/gold4.svg" width="20"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1504">
+                    BOJ 1504 특정한 최단 경로
+                </a>
+            </td>
+            <td>최단거리</td>
+        </tr>
+        <tr align="center">
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1351">
+                    BOJ 1351 무한 수열
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
     </tbody>
 </table>
 
