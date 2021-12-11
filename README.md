@@ -651,7 +651,7 @@
         </tr>
      <tr align="center">
             <td rowspan="3">20주차<br>(2021/12/03 ~ 2021/12/09)</td>
-             <td>골드 4</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/16235">
                     BOJ 16235 나무 재테크
@@ -660,7 +660,7 @@
             <td>시뮬레이션</td>
         </tr>
         <tr align="center">
-            <td>골드 2</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold2.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1561">
                     BOJ 1561 놀이 공원
@@ -669,7 +669,7 @@
             <td>이분탐색</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/10830">
                     BOJ 10830 행렬 제곱
@@ -679,7 +679,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">21주차<br>(2021/12/10 ~ 2021/12/16)</td>
-            <td valign="middle"><img src="./Tier/gold2.svg" width="17"/></td>
+            <td style="vertical-align:middle"><img src="./Tier/gold2.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/14725">
                     BOJ 14725 개미굴
@@ -688,7 +688,7 @@
             <td>문자열</td>
         </tr>
         <tr align="center">
-            <td valign="middle"><img src="./Tier/gold4.svg" width="17"/></td>
+            <td style="vertical-align:middle"><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1504">
                     BOJ 1504 특정한 최단 경로
@@ -697,7 +697,7 @@
             <td>최단거리</td>
         </tr>
         <tr align="center">
-            <td valign="middle"><img src="./Tier/gold4.svg" width="17"/></td>
+            <td style="vertical-align:middle"><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1351">
                     BOJ 1351 무한 수열
