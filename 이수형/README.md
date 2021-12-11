@@ -373,7 +373,7 @@
 
 |     날짜     | 내용 |
 | :----------: |:----:|
-|**12/11(토)**|[boj1351_무한수열](https://www.acmicpc.net/problem/1351)([Kotlin](./BOJ/boj1351_무한수열.kt))|
+|**12/11(토)**|[boj1351_무한수열](https://www.acmicpc.net/problem/1351)([Kotlin](./BOJ/boj1351_무한수열.kt))<br/>[boj1504_특정한최단경로](https://www.acmicpc.net/problem/1504)([Kotlin](./BOJ/boj1504_특정한최단경로.kt))|
 |**12/12(일)**||
 |**12/13(월)**||
 |**12/14(화)**||
