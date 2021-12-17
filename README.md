@@ -521,7 +521,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">16주차<br>(2021/11/05 ~ 2021/11/11)</td>
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2493">
                     BOJ 2493 탑
@@ -530,7 +530,7 @@
             <td>자료구조</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/17255">
                     BOJ 17255 N으로 만들기
@@ -539,7 +539,7 @@
             <td>자료구조</td>
         </tr>
         <tr align="center">
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/14675">
                     BOJ 14675 단절점과 단절선
@@ -549,7 +549,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">17주차<br>(2021/11/12 ~ 2021/11/18)</td>
-             <td>골드 3</td>
+             <td><img src="./Tier/gold3.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2109">
                     BOJ 2109 순회강연
@@ -558,7 +558,7 @@
             <td>그리디</td>
         </tr>
         <tr align="center">
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/12865">
                     BOJ 12865 평범한 배낭
@@ -567,7 +567,7 @@
             <td>DP</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/15961">
                     BOJ 15961 회전 초밥
