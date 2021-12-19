@@ -493,7 +493,7 @@
     <tbody>
         <tr align="center">
             <td rowspan="3">15주차<br>(2021/10/29 ~ 2021/11/04)</td>
-            <td>골드 2</td>
+            <td><img src="./Tier/gold2.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/17136">
                     BOJ 17136 색종이 붙이기
@@ -502,7 +502,7 @@
             <td>백트래킹</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1493">
                     BOJ 1493 박스 채우기
@@ -511,7 +511,7 @@
             <td>분할정복</td>
         </tr>
         <tr align="center">
-            <td>골드 5</td>
+            <td><img src="./Tier/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2671">
                     BOJ 2671 잠수함식별
