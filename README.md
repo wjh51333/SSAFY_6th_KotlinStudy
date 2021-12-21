@@ -445,7 +445,7 @@
         </tr>
         <tr align="center">
             <td rowspan="3">14주차<br>(2021/10/23 ~ 2021/10/28)</td>
-             <td>골드 5</td>
+             <td><img src="./Tier/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/14500">
                     BOJ 14500 테트로미노
@@ -454,7 +454,7 @@
             <td>완전탐색</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/17144">
                     BOJ 17144 미세먼지 안녕!
@@ -463,7 +463,7 @@
             <td>시뮬레이션</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1477">
                     BOJ 1477 휴게소 세우기
