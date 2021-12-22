@@ -705,6 +705,35 @@
             </td>
             <td>자료구조</td>
         </tr>
+     
+             <tr align="center">
+            <td rowspan="3">22주차<br>(2021/12/17 ~ 2021/12/23)</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2533">
+                    BOJ 2533 사회망 서비스(SNS)
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./Tier/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2212">
+                    BOJ 2212 센서
+                </a>
+            </td>
+            <td>그리디</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./Tier/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/9251">
+                    BOJ 9251 LCS
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
     </tbody>
 </table>
 
