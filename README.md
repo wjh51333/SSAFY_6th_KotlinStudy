@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=320&section=header&text=Kotlism&fontSize=90&fontAlignY=35&desc=🐇%20Let's%20study%20Kotlin%20together!&descAlignY=60)
+<div align="center">
+ 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=320&section=header&text=Kotlism&fontSize=90&fontAlignY=35&desc=🐇%20Let's%20study%20Kotlin%20together!&descAlignY=60)
+ 
+</div>
 
 
  ## 👋 **Member**
@@ -33,7 +37,7 @@
     </tr>
     <tr>
         <td align="center">김도연</td>
-        <td align="center">우지현</td>
+        <td align="center">🚗우지현</td>
         <td align="center">🥕 윤상일</td>
         <td align="center">이수형</td>
         <td align="center">최주은</td>
@@ -44,6 +48,7 @@
 
 ## ⭐ **Congrats**
  - 윤상일 (Yoon Sang il) 당근마켓 입사
+ - 우지현 (Woo Ji Hyun) 현대오토에버 입사
 
 <br />
 
