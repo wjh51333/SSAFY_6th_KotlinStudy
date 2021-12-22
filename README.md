@@ -623,7 +623,7 @@
     <tbody>
         <tr align="center">
             <td rowspan="3">18, 19주차<br>(2021/11/19 ~ 2021/12/02)</td>
-             <td>골드 2</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold2.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/12100">
                     BOJ 12100 2048 (Easy)
@@ -632,7 +632,7 @@
             <td>구현</td>
         </tr>
         <tr align="center">
-            <td>골드 4</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/17141">
                     BOJ 17141 연구소 2
@@ -641,7 +641,7 @@
             <td>그래프</td>
         </tr>
         <tr align="center">
-            <td>골드 3</td>
+            <td style="vertical-align:middle"><img src="./Tier/gold3.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/14391">
                     BOJ 14391 종이 조각
@@ -705,7 +705,6 @@
             </td>
             <td>자료구조</td>
         </tr>
-     
              <tr align="center">
             <td rowspan="3">22주차<br>(2021/12/17 ~ 2021/12/23)</td>
             <td style="vertical-align:middle"><img src="./Tier/gold3.svg" width="17"/></td>
@@ -736,5 +735,4 @@
         </tr>
     </tbody>
 </table>
-
 </details>
