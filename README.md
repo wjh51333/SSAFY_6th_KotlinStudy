@@ -48,7 +48,7 @@
 
 ## ⭐ **Congrats**
  - 윤상일 (Yoon Sang il) 당근마켓 입사
- - 우지현 (Woo J Hyun) 현대오토에버 입사
+ - 우지현 (Woo Jee Hyun) 현대오토에버 입사
 
 <br />
 
