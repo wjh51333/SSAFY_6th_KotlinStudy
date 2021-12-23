@@ -353,3 +353,19 @@
 
 <br>
 </details>
+
+
+<details markdown="1">
+<summary><strong> 22주차❄ (2021/12/17 ~ 2021/12/23)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
+|골드3|[[BOJ_2533_사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)]|DP| △ |[클릭](./BOJ/2533_사회망서비스.kt)|
+|골드5|[[BOJ_9251_LCS](https://www.acmicpc.net/problem/9251)]|DP| △ |[클릭](./BOJ/9251_LCS.kt)|
+|골드5|[[BOJ_2212_센서](https://www.acmicpc.net/problem/2212)]|정렬| △ |[클릭](./BOJ/2212_센서.kt)|
+
+
+<br>
+</details>
